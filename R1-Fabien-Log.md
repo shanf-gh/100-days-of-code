@@ -18,3 +18,13 @@
 
 **Link(s) to work**
 [Adding media](http://learn.shayhowe.com/html-css/adding-media/)
+
+### Day 2: September 13, 2017
+
+**Today's Progress**: Completed FCC's intermediate algorithm challenge "Missing letters". Finished Lesson 9 Adding Media and started Lesson 10 Forms of the "Lean to Code HTML & CSS" course.
+
+**Thoughts** Pretty tired, I feel I was not going as quick as I usually do through the lessons.
+
+**Link(s) to work**
+1. [Missing letters](https://www.freecodecamp.org/challenges/missing-letters)
+2. [Forms - Multiple Choice Inputs] (http://learn.shayhowe.com/html-css/building-forms/#multple-choice-inputs)
