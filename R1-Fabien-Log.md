@@ -28,3 +28,13 @@
 **Link(s) to work**
 1. [Missing letters](https://www.freecodecamp.org/challenges/missing-letters)
 2. [Forms - Multiple Choice Inputs] (http://learn.shayhowe.com/html-css/building-forms/#multple-choice-inputs)
+
+### Day 3: September 14, 2017
+
+**Today's Progress**: Completed FCC's intermediate algorithm challenge "Boo Who". Finished Lesson 9 Adding Media and started Lesson 10 Forms of the "Lean to Code HTML & CSS" course.
+
+**Thoughts** Today's algorithm was very easy. only using "return typeof bool === "boolean";" to identify if the element is a boolean primitive. Finished Lesson 10 Building forms and finished up to point 5 of the exercises of Lesson 11 organizing data with tables. Thinking I should start playing with HTML and CSS without any javascript for the portfolio.
+
+**Link(s) to work**
+1. [Boo Who](https://www.freecodecamp.org/challenges/boo-who)
+2. [Organizing data with tables] (http://learn.shayhowe.com/html-css/organizing-data-with-tables/#practice-1)
