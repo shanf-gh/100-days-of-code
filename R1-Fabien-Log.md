@@ -50,3 +50,21 @@
 2. [Convert HTML Entities] (https://www.freecodecamp.org/challenges/convert-html-entities)
 3. [Organizing data with tables] (http://learn.shayhowe.com/html-css/organizing-data-with-tables/#practice-1)
 4. [Writing your best code] (http://learn.shayhowe.com/html-css/writing-your-best-code/)
+
+### Day 5: September 16, 2017
+
+**Today's Progress**: Started CS50x on Edx.
+
+**Thoughts** Started CS50x at last with EDx. Thinking about what to do as a project with Scratch for pset0.
+
+**Link(s) to work**
+1. [HarvardX: CS50 Introduction to Computer Science] (https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 6: September 17, 2017
+
+**Today's Progress**: Completed FCC's intermediate algorithm challenge "Spinal Tap Case". Started pset0, project with Scratch.
+
+**Thoughts** Decided to build a Simon's game for the pset0, it will be useful to work out the game mechanics for the future FCC project. The buttons are done, need to work on the game mechanics.
+
+**Link(s) to work**
+1. [Simon's game] (https://scratch.mit.edu/projects/174977266/#editor)
