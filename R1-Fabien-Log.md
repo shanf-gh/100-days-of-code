@@ -67,4 +67,13 @@
 **Thoughts** Decided to build a Simon's game for the pset0, it will be useful to work out the game mechanics for the future FCC project. The buttons are done, need to work on the game mechanics.
 
 **Link(s) to work**
-1. [Simon's game] (https://scratch.mit.edu/projects/174977266/#editor)
+1. [Simon's game in Scratch] (https://scratch.mit.edu/projects/174977266/#editor)
+
+### Day 7: September 18, 2017
+
+**Today's Progress**: Completed FCC's intermediate algorithm challenge "Sum all odd Fibonacci Numbers". Thinking about Simon's game mechanics.
+
+**Thoughts** The game mechanics are almost written. Today's algorithm challenge was pretty challenging. The original solution was a little ugly but worked.
+
+**Link(s) to work**
+1. [Simon's game in Scratch] (https://scratch.mit.edu/projects/174977266/#editor)
