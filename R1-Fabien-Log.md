@@ -77,3 +77,13 @@
 
 **Link(s) to work**
 1. [Simon's game in Scratch] (https://scratch.mit.edu/projects/174977266/#editor)
+
+### Day 8: September 19, 2017
+
+**Today's Progress**: Completed FCC's intermediate algorithm challenge "Sum All Primes". Started building Simon's game mechanics in Scratch.
+
+**Thoughts** I had to look around to solve the sum all primes challenge. It was pretty hard but solving it was interesting. After looking at other simon's game code in Scratch I got the hang of how to start writing my own mechanics.
+
+**Link(s) to work**
+1. [Sum All Primes] (https://www.freecodecamp.org/challenges/sum-all-primes)
+2. [Simon's game in Scratch] (https://scratch.mit.edu/projects/174977266/#editor)
