@@ -87,3 +87,17 @@
 **Link(s) to work**
 1. [Sum All Primes] (https://www.freecodecamp.org/challenges/sum-all-primes)
 2. [Simon's game in Scratch] (https://scratch.mit.edu/projects/174977266/#editor)
+
+### Day 8: September 19, 2017
+
+**Today's Progress**:
+1. [FCC] Worked on intermediate algorithm challenge "Smallest Common Multiple".
+2. [CS50x] Watched about 1 hour of CS50x week 1 class.
+3. [CS50x] Worked on Simon's game mechanics in scratch. Built the randomization of button, answer, check between game sequence and player sequence.
+
+**Thoughts** The FCC challenge on Smallest Common Multiple is pretty tough. I will continue tomorrow on it. The CS50x W01 class is pretty interesting and I am making pretty good progress on the pset0, albeit I had to peek into someone else's solution I try to work the programing by myself.
+
+**Link(s) to work**
+1. [Smallest Common Multiple] (https://www.freecodecamp.org/challenges/smallest-common-multiple)
+2. [CS50x W01] (https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/d0c88865e9434f17808f54870ea230a1/da6b01d04a5643e796a4ec904db9363c/?child=first)
+3. [Simon's game in Scratch] (https://scratch.mit.edu/projects/174977266/#editor)
