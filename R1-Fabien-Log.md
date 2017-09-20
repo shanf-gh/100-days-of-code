@@ -27,7 +27,7 @@
 
 **Link(s) to work**
 1. [Missing letters](https://www.freecodecamp.org/challenges/missing-letters)
-2. [Forms - Multiple Choice Inputs] (http://learn.shayhowe.com/html-css/building-forms/#multple-choice-inputs)
+2. [Forms - Multiple Choice Inputs](http://learn.shayhowe.com/html-css/building-forms/#multple-choice-inputs)
 
 ### Day 3: September 14, 2017
 
@@ -37,7 +37,7 @@
 
 **Link(s) to work**
 1. [Boo Who](https://www.freecodecamp.org/challenges/boo-who)
-2. [Organizing data with tables] (http://learn.shayhowe.com/html-css/organizing-data-with-tables/#practice-1)
+2. [Organizing data with tables](http://learn.shayhowe.com/html-css/organizing-data-with-tables/#practice-1)
 
 ### Day 4: September 15, 2017
 
@@ -47,9 +47,9 @@
 
 **Link(s) to work**
 1. [Sorted Union](https://www.freecodecamp.org/challenges/sorted-union)
-2. [Convert HTML Entities] (https://www.freecodecamp.org/challenges/convert-html-entities)
-3. [Organizing data with tables] (http://learn.shayhowe.com/html-css/organizing-data-with-tables/#practice-1)
-4. [Writing your best code] (http://learn.shayhowe.com/html-css/writing-your-best-code/)
+2. [Convert HTML Entities](https://www.freecodecamp.org/challenges/convert-html-entities)
+3. [Organizing data with tables](http://learn.shayhowe.com/html-css/organizing-data-with-tables/#practice-1)
+4. [Writing your best code](http://learn.shayhowe.com/html-css/writing-your-best-code/)
 
 ### Day 5: September 16, 2017
 
@@ -58,7 +58,7 @@
 **Thoughts** Started CS50x at last with EDx. Thinking about what to do as a project with Scratch for pset0.
 
 **Link(s) to work**
-1. [HarvardX: CS50 Introduction to Computer Science] (https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+1. [HarvardX: CS50 Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
 
 ### Day 6: September 17, 2017
 
@@ -67,7 +67,7 @@
 **Thoughts** Decided to build a Simon's game for the pset0, it will be useful to work out the game mechanics for the future FCC project. The buttons are done, need to work on the game mechanics.
 
 **Link(s) to work**
-1. [Simon's game in Scratch] (https://scratch.mit.edu/projects/174977266/#editor)
+1. [Simon's game in Scratch](https://scratch.mit.edu/projects/174977266/#editor)
 
 ### Day 7: September 18, 2017
 
@@ -76,7 +76,7 @@
 **Thoughts** The game mechanics are almost written. Today's algorithm challenge was pretty challenging. The original solution was a little ugly but worked.
 
 **Link(s) to work**
-1. [Simon's game in Scratch] (https://scratch.mit.edu/projects/174977266/#editor)
+1. [Simon's game in Scratch](https://scratch.mit.edu/projects/174977266/#editor)
 
 ### Day 8: September 19, 2017
 
@@ -85,8 +85,8 @@
 **Thoughts** I had to look around to solve the sum all primes challenge. It was pretty hard but solving it was interesting. After looking at other simon's game code in Scratch I got the hang of how to start writing my own mechanics.
 
 **Link(s) to work**
-1. [Sum All Primes] (https://www.freecodecamp.org/challenges/sum-all-primes)
-2. [Simon's game in Scratch] (https://scratch.mit.edu/projects/174977266/#editor)
+1. [Sum All Primes](https://www.freecodecamp.org/challenges/sum-all-primes)
+2. [Simon's game in Scratch](https://scratch.mit.edu/projects/174977266/#editor)
 
 ### Day 8: September 19, 2017
 
@@ -98,6 +98,6 @@
 **Thoughts** The FCC challenge on Smallest Common Multiple is pretty tough. I will continue tomorrow on it. The CS50x W01 class is pretty interesting and I am making pretty good progress on the pset0, albeit I had to peek into someone else's solution I try to work the programing by myself.
 
 **Link(s) to work**
-1. [Smallest Common Multiple] (https://www.freecodecamp.org/challenges/smallest-common-multiple)
-2. [CS50x W01] (https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/d0c88865e9434f17808f54870ea230a1/da6b01d04a5643e796a4ec904db9363c/?child=first)
-3. [Simon's game in Scratch] (https://scratch.mit.edu/projects/174977266/#editor)
+1. [Smallest Common Multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple)
+2. [CS50x W01](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/d0c88865e9434f17808f54870ea230a1/da6b01d04a5643e796a4ec904db9363c/?child=first)
+3. [Simon's game in Scratch](https://scratch.mit.edu/projects/174977266/#editor)
