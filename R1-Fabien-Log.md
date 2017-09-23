@@ -101,3 +101,55 @@
 1. [Smallest Common Multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple)
 2. [CS50x W01](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/d0c88865e9434f17808f54870ea230a1/da6b01d04a5643e796a4ec904db9363c/?child=first)
 3. [Simon's game in Scratch](https://scratch.mit.edu/projects/174977266/#editor)
+
+### Day 9: September 20, 2017
+
+**Today's Progress**:
+1. [FCC] Worked on intermediate algorithm challenge "Smallest Common Multiple".
+2. [CS50x] Watched about 1 hour of CS50x week 1 class.
+3. [CS50x] Worked on Simon's game mechanics in scratch. Completed the feedback loop between game sequence and player sequence.
+
+**Thoughts** The FCC challenge on Smallest Common Multiple is rough... still working on it. The CS50x W01 class has the main mechanics in.
+
+**Link(s) to work**
+1. [Smallest Common Multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple)
+2. [CS50x W01](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/d0c88865e9434f17808f54870ea230a1/da6b01d04a5643e796a4ec904db9363c/?child=first)
+3. [Simon's game in Scratch](https://scratch.mit.edu/projects/174977266/#editor)
+
+### Day 10: September 21, 2017
+
+**Today's Progress**:
+1. [FCC] Worked on intermediate algorithm challenge "Smallest Common Multiple".
+2. [CS50x] Watched about 30mins of CS50x week 1 class.
+3. [CS50x] Worked a little bit on the Simon's game project.
+
+**Thoughts** Still not completed the FCC challenge... Couldn't work much on the pset0.
+
+**Link(s) to work**
+1. [Smallest Common Multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple)
+2. [CS50x W01](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/d0c88865e9434f17808f54870ea230a1/da6b01d04a5643e796a4ec904db9363c/?child=first)
+3. [Simon's game in Scratch](https://scratch.mit.edu/projects/174977266/#editor)
+
+### Day 11: September 22, 2017
+
+**Today's Progress**:
+1. [FCC] Completed the algorithm challenge "Smallest Common Multiple".
+2. [CS50x] Finished watching the w01 class.
+3. [CS50x] Project almost over, started simplifying the code by breaking it down into smaller functions.
+
+**Thoughts** I had to take a little peek into the solution for the FCC challenge. I couldn't work out how to avoid the infinite loop on the while loop. Almost finished pset0.
+
+**Link(s) to work**
+1. [Smallest Common Multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple)
+2. [CS50x W01](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/d0c88865e9434f17808f54870ea230a1/da6b01d04a5643e796a4ec904db9363c/?child=first)
+3. [Simon's game in Scratch](https://scratch.mit.edu/projects/174977266/#editor)
+
+### Day 11: September 22, 2017
+
+**Today's Progress**:
+[CS50x] Project over!
+
+**Thoughts** CS50x pset0 project over!!! 100% on submit!!! I created more beautiful elements with gimp and worked on more mechanics required by the FCC user stories.
+
+**Link(s) to work**
+1. [Final version - Simon's game in Scratch](https://scratch.mit.edu/projects/176102596/#editor)
