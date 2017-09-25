@@ -158,7 +158,7 @@ Started the problems of pset1, first two were pretty easy, got blocked at Mario.
 2. [Codewars-dashboard](https://www.codewars.com/dashboard)
 3. [Codewars-8kyuu-for twins types](https://www.codewars.com/kata/for-twins-1-types)
 
-### Day 12: September 23, 2017
+### Day 13: September 24, 2017
 
 **Today's Progress**:
 [CS50x] finished pset1 in 8 hours.
