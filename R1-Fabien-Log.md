@@ -147,8 +147,8 @@
 ### Day 12: September 23, 2017
 
 **Today's Progress**:
-[CS50x] Project over! Started problems of pset1
-[Codewars] Did one kata in codewar, learned about TDD (test driven development)
+1. [CS50x] Project over! Started problems of pset1
+2. [Codewars] Did one kata in codewar, learned about TDD (test driven development)
 
 **Thoughts** CS50x pset0 project over!!! 100% on submit!!! I created more beautiful elements with gimp and worked on more mechanics required by the FCC user stories.
 Started the problems of pset1, first two were pretty easy, got blocked at Mario.c (more version).
@@ -161,12 +161,22 @@ Started the problems of pset1, first two were pretty easy, got blocked at Mario.
 ### Day 13: September 24, 2017
 
 **Today's Progress**:
-[CS50x] finished pset1 in 8 hours.
-[Codewars] Did one kata in codewar.
-[FCC] Started working on my portfolio
+1. [CS50x] finished pset1 in 8 hours.
+2. [Codewars] Did one kata in codewar.
+3. [FCC] Started working on my portfolio
 
-**Thoughts** CS50x pset1 over! The mario and credit card pset were pretty hard but I got through!.
-Starting working on my portfolio at last. Getting some ideas from other campers' portfolios.
+**Thoughts** CS50x pset1 over! The mario and credit card pset were pretty hard but I got through!. Starting working on my portfolio at last. Getting some ideas from other campers' portfolios.
 
 **Link(s) to work**
 1.[Codewars-Calculate BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb)
+
+### Day 14: September 25, 2017
+
+**Today's Progress**:
+1. [CS50x] Watched 1 hour of week1
+3. [FCC] Completed "Drop it"
+
+**Thoughts** Not a very productive day. Had to backup files and clean install the computer.
+
+**Link(s) to work**
+1.[FCC - Drop It](https://www.freecodecamp.org/challenges/drop-it)
