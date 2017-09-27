@@ -180,3 +180,14 @@ Started the problems of pset1, first two were pretty easy, got blocked at Mario.
 
 **Link(s) to work**
 1.[FCC - Drop It](https://www.freecodecamp.org/challenges/drop-it)
+
+### Day 14: September 25, 2017
+
+**Today's Progress**:
+1. [CS50x] Finished watching week1
+3. [FCC] Completed "Steamroller"
+
+**Thoughts** Not a very productive day. Had to backup files and clean install the computer.
+
+**Link(s) to work**
+1.[FCC - Steamroller](https://www.freecodecamp.org/challenges/steamroller)
