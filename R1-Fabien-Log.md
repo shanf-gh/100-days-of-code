@@ -173,21 +173,45 @@ Started the problems of pset1, first two were pretty easy, got blocked at Mario.
 ### Day 14: September 25, 2017
 
 **Today's Progress**:
-1. [CS50x] Watched 1 hour of week1
-3. [FCC] Completed "Drop it"
+1. [CS50x] Watched 1 hour of week2
+2. [FCC] Completed "Drop it"
 
 **Thoughts** Not a very productive day. Had to backup files and clean install the computer.
 
 **Link(s) to work**
 1.[FCC - Drop It](https://www.freecodecamp.org/challenges/drop-it)
 
-### Day 14: September 25, 2017
+### Day 15: September 26, 2017
 
 **Today's Progress**:
-1. [CS50x] Finished watching week1
-3. [FCC] Completed "Steamroller"
+1. [CS50x] Finished watching week2
+2. [FCC] Completed "Steamroller"
 
 **Thoughts** Not a very productive day. Had to backup files and clean install the computer.
 
 **Link(s) to work**
 1.[FCC - Steamroller](https://www.freecodecamp.org/challenges/steamroller)
+
+### Day 16: September 27, 2017
+
+**Today's Progress**:
+1. [CS50x] Finished watching the additional videos for w1 and w2. Completed 1/3 of pset2 (1h30). Started watching w3.
+2. [FCC] Completed "Binary agent"
+
+**Thoughts** CS50x is starting to get pretty tough. I spent one hour and some googling to figure out how to tokenize the string provided in argument. The first problem of pset2 was receiving a string with names and spaces in input and giving the initials capitalized in output.
+
+**Link(s) to work**
+1.[FCC - Binary Agent](https://www.freecodecamp.org/challenges/binary-agents)
+
+### Day 17: September 28, 2017
+
+**Today's Progress**:
+1. [CS50x] Watched a few videos of w3
+2. [FCC] Completed "Everything Be True"
+3. [p1xt] Started translating the resume template to HTML & CSS
+
+**Thoughts** CS50x gets to more interesting things like sorting algorithm. Loving it :) FCC's challenge on truthy did not feel hard but I got a pretty compact code to solve it.
+
+**Link(s) to work**
+1.[FCC - Everything Be True](https://www.freecodecamp.org/challenges/everything-be-true)
+3.[p1xt - resume template](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2)
