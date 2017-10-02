@@ -215,3 +215,39 @@ Started the problems of pset1, first two were pretty easy, got blocked at Mario.
 **Link(s) to work**
 1.[FCC - Everything Be True](https://www.freecodecamp.org/challenges/everything-be-true)
 3.[p1xt - resume template](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2)
+
+### Day 18: September 29, 2017
+
+**Today's Progress**:
+1. [FCC] Completed "Missing letters"
+2. [p1xt] Continued on the resume template.
+
+**Thoughts** End of the intermediate challenges!!!
+
+**Link(s) to work**
+1.[FCC - Missing letters](https://www.freecodecamp.org/challenges/missing-letters)
+2.[p1xt - resume template](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2)
+
+### Day 19: September 30, 2017
+
+**Today's Progress**:
+1. [FCC] Completed "Validate US Telephone Numbers"
+2. [CS50x] Finished pset2 2/3. Caesar.
+
+**Thoughts**  Started Advanced algo!
+
+**Link(s) to work**
+1.[FCC - Validate US Telephone Numbers](https://www.freecodecamp.org/challenges/validate-us-telephone-numbers)
+2.[CS50x - pset2s](http://docs.cs50.net/2017/x/psets/2/pset2.html)
+
+### Day 20: October 1, 2017
+
+**Today's Progress**:
+1. [CS50x] Finished pset2 !
+2. [FCC] Completed "Record Collection"
+
+**Thoughts**  Started Advanced algo!
+
+**Link(s) to work**
+1.[CS50x - pset2s](http://docs.cs50.net/2017/x/psets/2/pset2.html)
+2.[FCC - Record Collection](https://www.freecodecamp.org/challenges/record-collection)
