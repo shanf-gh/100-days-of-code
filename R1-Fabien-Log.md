@@ -251,3 +251,25 @@ Started the problems of pset1, first two were pretty easy, got blocked at Mario.
 **Link(s) to work**
 1.[CS50x - pset2s](http://docs.cs50.net/2017/x/psets/2/pset2.html)
 2.[FCC - Record Collection](https://www.freecodecamp.org/challenges/record-collection)
+
+### Day 21: October 2, 2017
+
+**Today's Progress**:
+1. [FCC] Completed "Symmetric Difference"
+2. [P1xt] Continued working on the clone portfolio
+
+**Thoughts**  The FCC challenge was interesting for the maths and the logics. I started implementing a vanilla css grid for the cloning exercise.
+
+**Link(s) to work**
+1.[FCC - Symmetric Difference](https://www.freecodecamp.org/challenges/symmetric-difference)
+
+### Day 22: October 3, 2017
+
+**Today's Progress**:
+1. [FCC] Started working on "Exact Change"
+2. [P1xt] Continued working on the clone portfolio
+
+**Thoughts**  The exact change has an issue with the float point. the remaining change would be less some thousandth value. (0.00958 instead of 0.01). Finished the navbar for the clones
+
+**Link(s) to work**
+1.[FCC - Exact change](https://www.freecodecamp.org/challenges/exact-change)
