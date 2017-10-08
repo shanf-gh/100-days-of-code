@@ -273,3 +273,51 @@ Started the problems of pset1, first two were pretty easy, got blocked at Mario.
 
 **Link(s) to work**
 1.[FCC - Exact change](https://www.freecodecamp.org/challenges/exact-change)
+
+### Day 23: October 4, 2017
+
+**Today's Progress**:
+1. [FCC] Completed "Exact Change"
+2. [P1xt] Continued working on the clone portfolio
+3. [CS50x] Started working on pset3
+
+**Thoughts**  Worked around the float issue by using the toFixed(2) to have only two decimals. The solution provided in hint used another way to ensure the preciseness of the float by dividing by 100 the rounded number of the value multiplied by 100 => [Math.round(value*100)/100;]
+Started working on pset3, in face to the difficulty, the number of information provided and the need to watch the additional video, I decided to mostly work on them on the week ends in order to allow more time for thoughts.
+
+**Link(s) to work**
+1.[FCC - Exact change](https://www.freecodecamp.org/challenges/exact-change)
+
+### Day 24: October 5, 2017
+
+**Today's Progress**:
+1. [FCC] Completed "Inventory Update"
+2. [P1xt] Continued working on the clone portfolio
+
+**Thoughts**  Worked on a quick solution involving two loops to solve the FCC challenge. (40mins)
+
+**Link(s) to work**
+1.[FCC - Inventory update](https://www.freecodecamp.org/challenges/inventory-update)
+
+### Day 25: October 6, 2017
+
+**Today's Progress**:
+1. [P1xt] Continued working on the clone portfolio
+
+**Thoughts** Continued working on the portfolio. Implementing CSS bar for the software section and fontawesome for the hobbies section.
+
+### Day 26: October 7, 2017
+
+**Today's Progress**:
+1. [P1xt] Continued working on the clone portfolio
+
+**Thoughts** Continued working on the portfolio. Implementing vertical timeline for the work and education sections.
+
+### Day 27: October 8, 2017
+
+**Today's Progress**:
+1. [CS50x] Completed the first part of pset3 (9pomodoros)
+
+**Thoughts**  Started tracking progress on CS50x with trello and using pomello to count the amount of time spent on the challenges.
+
+**Link(s) to work**
+1.[CS50x - pset3](http://docs.cs50.net/2017/x/psets/3/pset3.html)
