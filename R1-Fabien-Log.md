@@ -321,3 +321,23 @@ Started working on pset3, in face to the difficulty, the number of information p
 
 **Link(s) to work**
 1.[CS50x - pset3](http://docs.cs50.net/2017/x/psets/3/pset3.html)
+
+### Day 28: October 9, 2017
+
+**Today's Progress**:
+1. [CS50x] Started working on the second part of pset3.
+
+**Thoughts**  Worked 1h30 on the game of fifteen.
+
+**Link(s) to work**
+1.[CS50x - pset3](http://docs.cs50.net/2017/x/psets/3/pset3.html)
+
+### Day 29: October 10, 2017
+
+**Today's Progress**:
+1. [CS50x] Completed and submitted pset3.
+
+**Thoughts**  Worked 1h on the game of fifteen and completed it.
+
+**Link(s) to work**
+1.[CS50x - pset3](http://docs.cs50.net/2017/x/psets/3/pset3.html)
