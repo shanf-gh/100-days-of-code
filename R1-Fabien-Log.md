@@ -336,8 +336,10 @@ Started working on pset3, in face to the difficulty, the number of information p
 
 **Today's Progress**:
 1. [CS50x] Completed and submitted pset3.
+2. [P1xt] Completed clone resume.
 
-**Thoughts**  Worked 1h on the game of fifteen and completed it.
+**Thoughts**  Worked 1h on the game of fifteen and completed it. 2h20 on the clone resume task today, total above 10hours probably.
 
 **Link(s) to work**
 1.[CS50x - pset3](http://docs.cs50.net/2017/x/psets/3/pset3.html)
+2.[P1xt clone resume on github](https://github.com/X140hu4/Projects-p1xt/tree/master/Clone-resume)
