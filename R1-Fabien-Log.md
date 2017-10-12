@@ -343,3 +343,25 @@ Started working on pset3, in face to the difficulty, the number of information p
 **Link(s) to work**
 1.[CS50x - pset3](http://docs.cs50.net/2017/x/psets/3/pset3.html)
 2.[P1xt clone resume on github](https://github.com/X140hu4/Projects-p1xt/tree/master/Clone-resume)
+
+### Day 30: October 11, 2017
+
+**Today's Progress**:
+1. [FCC] Started working on "No Repeats Please"
+
+**Thoughts**  Worked 1h on No Repeats Please algorithm and helped people on gitter.
+
+**Link(s) to work**
+1.[FCC - No Repeats Please](https://www.freecodecamp.org/challenges/no-repeats-please)
+
+### Day 31: October 12, 2017
+
+**Today's Progress**:
+1. [FCC] Completed "No Repeats Please"
+2. [FCC] Project: Portfolio 4 pomodoros (2hrs)
+
+**Thoughts** Completed the algorithm, there was an issue with my regexp test. It would return true when actually false, taking away the g element solved the problem but a better implementation of the regexp here for repeating characters is: /(.)\1+/g instead of building it from the str passed in argument. Spent two hours to work on the portfolio challenge.
+
+**Link(s) to work**
+1.[FCC - No Repeats Please](https://www.freecodecamp.org/challenges/no-repeats-please)
+2.[Github - FCC Portfolio ](https://github.com/X140hu4/FCC/tree/master/1.%20Portfolio)
