@@ -365,3 +365,37 @@ Started working on pset3, in face to the difficulty, the number of information p
 **Link(s) to work**
 1.[FCC - No Repeats Please](https://www.freecodecamp.org/challenges/no-repeats-please)
 2.[Github - FCC Portfolio ](https://github.com/X140hu4/FCC/tree/master/1.%20Portfolio)
+
+### Day 32: October 13, 2017
+
+**Today's Progress**:
+1. [FCC] Project: Portfolio 2 pomodoro
+2. Reading about Grid and flexbox
+3. [CS50x] Finished the course video, half way through additional videos
+
+**Thoughts** Had only time to work on the portfolio at lunch break and read about grid and flexbox throughout the day.
+
+**Link(s) to work**
+1.[Github - FCC Portfolio ](https://github.com/X140hu4/FCC/tree/master/1.%20Portfolio)
+
+### Day 33: October 14, 2017
+
+**Today's Progress**:
+1. [CS50x] Started working on pset4 (4 pomodori)
+
+**Thoughts** Started working on pset4, 4 pomodori spent on the Whodunit problem.
+
+**Link(s) to work**
+1.[CS50x - pset4](http://docs.cs50.net/2017/x/psets/4/pset4.html)
+
+### Day 34: October 15, 2017
+
+**Today's Progress**:
+1. [CS50x] Completed Whodunit (2.5 pomodori - tot 6.5)
+2. [CS50x] Completed Resize (less) (6.25 pomodori)
+3. [CS50x] Started Recover (5 pomodori)
+
+**Thoughts** Worked through the different problem sets. They are pretty challenging because of the concept of pointers. Tried to do the more version of Resize after completing the more, abandoned doing it but hope to come back to it in the future.
+
+**Link(s) to work**
+1.[CS50x - pset4](http://docs.cs50.net/2017/x/psets/4/pset4.html)
