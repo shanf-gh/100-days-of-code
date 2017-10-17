@@ -399,3 +399,31 @@ Started working on pset3, in face to the difficulty, the number of information p
 
 **Link(s) to work**
 1.[CS50x - pset4](http://docs.cs50.net/2017/x/psets/4/pset4.html)
+
+### Day 35: October 16, 2017
+
+**Today's Progress**:
+1. [CS50x] Completed Recover (2.5 pomodori - tot 7.5)
+2. [FCC] Completed "Make a Person"
+3. [p1xt] Worked a little bit on FCC's portfolio
+
+**Thoughts** Finished pset4 at last. Had some issues with the while loop, the fread would not evaluate when being in the condition, used a do {} while (!feof(file)); loop to end of file to generate the jpg and had to insert a break for when the fread is not 512bytes. This had cause problems with the last file having a bunch of zeroes at the end of the file, which does not prevent the image to being viewable but makes it slightly heavier and not correct.
+FCC "make a person" was relatively easy to complete. It was interesting to see how "this" worked
+
+**Link(s) to work**
+1.[CS50x - pset4](http://docs.cs50.net/2017/x/psets/4/pset4.html)
+2.[FCC - Make a person](https://www.freecodecamp.org/challenges/make-a-person)
+
+### Day 36: October 17, 2017
+
+**Today's Progress**:
+1. [FCC] Completed "Map the Debris" (1p)
+2. [p1xt] Worked on FCC portfolio (2p)
+3. [CS50x] Continued watching videos from w04 and a little bit of w05 course.
+
+**Thoughts**
+Got around the FCC challenge pretty quickly.
+Struggled much with the vertical alignment for the aboutsection of the portfolio. Finally decided to calculate the middle of the element and its position relative to the image and use margin-top to align.
+
+**Link(s) to work**
+1.[FCC - Map the Debris](https://www.freecodecamp.org/challenges/map-the-debris)
