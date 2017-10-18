@@ -418,7 +418,7 @@ FCC "make a person" was relatively easy to complete. It was interesting to see h
 
 **Today's Progress**:
 1. [FCC] Completed "Map the Debris" (1p)
-2. [FCCs] Worked on FCC portfolio (2p)
+2. [FCC] Worked on FCC portfolio (2p)
 3. [CS50x] Continued watching videos from w04 and a little bit of w05 course.
 
 **Thoughts**
@@ -431,12 +431,14 @@ Struggled much with the vertical alignment for the aboutsection of the portfolio
 ### Day 37: October 18, 2017
 
 **Today's Progress**:
-1. [p1xt] Worked on FCC portfolio (2p)
+1. [FCC] Worked on FCC portfolio (5p)
 2. [CS50x] Continued watching w05 course
+3. [FCC] Started setting up HTML and CSS for Random Quote Machine project. (1p)
 
 **Thoughts**
 Finally finished the portfolio. The code is not as clean and pretty as I would like but it is a good beginning imho. I will do better for the actual portfolio I want to use but currently the focus is to go through the projects with the MED (minimum effective dose).
 In the CS50x w05 course, David talks about the linked lists using pointers and how to manipulate them. He also introduced the concept of LIFO and FIFO for queues.
+Started setting up HTML and CSS for the Random quote machine project. Probably need to refresh the lessons previous to the challenge in order to complete it.
 
 **Link(s) to work**
 1.[FCC - Portfolio on Codepen](https://codepen.io/X140hu4/full/WZLLQQ/)
