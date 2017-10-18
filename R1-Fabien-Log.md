@@ -405,7 +405,7 @@ Started working on pset3, in face to the difficulty, the number of information p
 **Today's Progress**:
 1. [CS50x] Completed Recover (2.5 pomodori - tot 7.5)
 2. [FCC] Completed "Make a Person"
-3. [p1xt] Worked a little bit on FCC's portfolio
+3. [FCC] Worked a little bit on FCC's portfolio
 
 **Thoughts** Finished pset4 at last. Had some issues with the while loop, the fread would not evaluate when being in the condition, used a do {} while (!feof(file)); loop to end of file to generate the jpg and had to insert a break for when the fread is not 512bytes. This had cause problems with the last file having a bunch of zeroes at the end of the file, which does not prevent the image to being viewable but makes it slightly heavier and not correct.
 FCC "make a person" was relatively easy to complete. It was interesting to see how "this" worked
@@ -418,7 +418,7 @@ FCC "make a person" was relatively easy to complete. It was interesting to see h
 
 **Today's Progress**:
 1. [FCC] Completed "Map the Debris" (1p)
-2. [p1xt] Worked on FCC portfolio (2p)
+2. [FCCs] Worked on FCC portfolio (2p)
 3. [CS50x] Continued watching videos from w04 and a little bit of w05 course.
 
 **Thoughts**
@@ -427,3 +427,16 @@ Struggled much with the vertical alignment for the aboutsection of the portfolio
 
 **Link(s) to work**
 1.[FCC - Map the Debris](https://www.freecodecamp.org/challenges/map-the-debris)
+
+### Day 37: October 18, 2017
+
+**Today's Progress**:
+1. [p1xt] Worked on FCC portfolio (2p)
+2. [CS50x] Continued watching w05 course
+
+**Thoughts**
+Finally finished the portfolio. The code is not as clean and pretty as I would like but it is a good beginning imho. I will do better for the actual portfolio I want to use but currently the focus is to go through the projects with the MED (minimum effective dose).
+In the CS50x w05 course, David talks about the linked lists using pointers and how to manipulate them. He also introduced the concept of LIFO and FIFO for queues.
+
+**Link(s) to work**
+1.[FCC - Portfolio on Codepen](https://codepen.io/X140hu4/full/WZLLQQ/)
