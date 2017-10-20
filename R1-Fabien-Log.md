@@ -441,4 +441,31 @@ In the CS50x w05 course, David talks about the linked lists using pointers and h
 Started setting up HTML and CSS for the Random quote machine project. Probably need to refresh the lessons previous to the challenge in order to complete it.
 
 **Link(s) to work**
-1.[FCC - Portfolio on Codepen](https://codepen.io/X140hu4/full/WZLLQQ/)
+1.[FCC - Portfolio on Codepen](https://codepen.io/X140hu4/full/WZLLQQ
+
+### Day 38: October 19, 2017
+
+**Today's Progress**:
+1. [CS50x] Continued watching w05 course
+2. [FCC] Reviewed "JSON APIs and AJAX" on FCC
+3. [FCC] Working on Random Quote Machine project (5p)
+
+**Thoughts**
+3/4 of the CS50x w05 course. David talked about building struct for building nodes, creating binary trees and searching through them. Looks pretty powerful.
+Reviewed "SON APIs and AJAX", need to dig deeper in order to complete the Random quote project.
+
+**Link(s) to work**
+2.[fCC - JSON API and AJAX](https://www.freecodecamp.org/challenges/trigger-click-events-with-jquery)
+
+### Day 39: October 20, 2017
+
+**Today's Progress**:
+1. [CS50x] Continued watching w05 course
+2. [FCC] Completed Random Quote Machine project (3p - tot 4h10)
+
+**Thoughts**
+Almost finished CS50x w05 course.
+Finished the random quote machine project. Chose to write the JS in vanilla JS and manipulate the elements directly, googling solutions to specific functions and arrays, then adapting them to my environment.
+
+**Link(s) to work**
+2.[FCC - Random Quote Machine on Codepen](https://codepen.io/freeCodeCamp/full/ONjoLe)
