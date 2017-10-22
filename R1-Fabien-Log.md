@@ -462,10 +462,34 @@ Reviewed "SON APIs and AJAX", need to dig deeper in order to complete the Random
 **Today's Progress**:
 1. [CS50x] Continued watching w05 course
 2. [FCC] Completed Random Quote Machine project (3p - tot 4h10)
+3. [FCC] Started working on the Local Weather project (3p)
 
 **Thoughts**
 Almost finished CS50x w05 course.
 Finished the random quote machine project. Chose to write the JS in vanilla JS and manipulate the elements directly, googling solutions to specific functions and arrays, then adapting them to my environment.
+Had some initial issues with setting up the local weather's API connection. My request to the API was outside the function that got the position so there was some timing issues.
 
 **Link(s) to work**
 2.[FCC - Random Quote Machine on Codepen](https://codepen.io/freeCodeCamp/full/ONjoLe)
+3.[FCC - Local Weather on Codepen](https://codepen.io/X140hu4/pen/Bwbdby)
+
+### Day 40: October 21, 2017
+
+**Today's Progress**:
+1. [CS50x] Finished watching w05 course - started pset5 (2p)
+
+**Thoughts**
+There is only one problem in this week's pset. It looks simple at the moment. Let's see how it goes. Reading through the explanation took some time. Currently answering the questions.
+
+**Link(s) to work**
+No links Today
+
+### Day 41: October 22, 2017
+
+**Today's Progress**:
+1.
+
+**Thoughts**
+
+
+**Link(s) to work**
