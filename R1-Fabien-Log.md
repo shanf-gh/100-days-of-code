@@ -487,9 +487,32 @@ No links Today
 ### Day 41: October 22, 2017
 
 **Today's Progress**:
-1.
+1. [CS50x] Worked on the pset5 (8p)
 
 **Thoughts**
-
+Struggling with the loading of the dictionary.
 
 **Link(s) to work**
+No links Today
+
+### Day 42: October 23, 2017
+
+**Today's Progress**:
+1. [CS50x] Worked on the pset5 (7p)
+
+**Thoughts**
+Struggling with the loading of the dictionary.
+
+**Link(s) to work**
+No links Today
+
+### Day 43: October 24, 2017
+
+**Today's Progress**:
+1. [CS50x] Worked on the pset5 (2p)
+
+**Thoughts**
+Wrote a working code but have issue with freeing memory >.< I would not pass the check50 tests.
+
+**Link(s) to work**
+No links Today
