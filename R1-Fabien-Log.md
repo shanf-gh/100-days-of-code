@@ -69,8 +69,8 @@ Finished the random quote machine project. Chose to write the JS in vanilla JS a
 Had some initial issues with setting up the local weather's API connection. My request to the API was outside the function that got the position so there was some timing issues.
 
 **Link(s) to work**
-2.[FCC - Random Quote Machine on Codepen](https://codepen.io/freeCodeCamp/full/ONjoLe)
-3.[FCC - Local Weather on Codepen](https://codepen.io/X140hu4/pen/Bwbdby)
+2. [FCC - Random Quote Machine on Codepen](https://codepen.io/freeCodeCamp/full/ONjoLe)
+3. [FCC - Local Weather on Codepen](https://codepen.io/X140hu4/pen/Bwbdby)
 
 ### Day 38: October 19, 2017
 
@@ -84,7 +84,7 @@ Had some initial issues with setting up the local weather's API connection. My r
 Reviewed "SON APIs and AJAX", need to dig deeper in order to complete the Random quote project.
 
 **Link(s) to work**
-2.[fCC - JSON API and AJAX](https://www.freecodecamp.org/challenges/trigger-click-events-with-jquery)
+2. [fCC - JSON API and AJAX](https://www.freecodecamp.org/challenges/trigger-click-events-with-jquery)
 
 
 ### Day 37: October 18, 2017
@@ -100,7 +100,7 @@ In the CS50x w05 course, David talks about the linked lists using pointers and h
 Started setting up HTML and CSS for the Random quote machine project. Probably need to refresh the lessons previous to the challenge in order to complete it.
 
 **Link(s) to work**
-1.[FCC - Portfolio on Codepen](https://codepen.io/X140hu4/full/WZLLQQ
+1. [FCC - Portfolio on Codepen](https://codepen.io/X140hu4/full/WZLLQQ)
 
 ### Day 36: October 17, 2017
 
@@ -114,7 +114,8 @@ Got around the FCC challenge pretty quickly.
 Struggled much with the vertical alignment for the aboutsection of the portfolio. Finally decided to calculate the middle of the element and its position relative to the image and use margin-top to align.
 
 **Link(s) to work**
-1.[FCC - Map the Debris](https://www.freecodecamp.org/challenges/map-the-debris)
+1. [FCC - Map the Debris](https://www.freecodecamp.org/challenges/map-the-debris)
+
 ### Day 35: October 16, 2017
 
 **Today's Progress**:
@@ -126,8 +127,8 @@ Struggled much with the vertical alignment for the aboutsection of the portfolio
 FCC "make a person" was relatively easy to complete. It was interesting to see how "this" worked
 
 **Link(s) to work**
-1.[CS50x - pset4](http://docs.cs50.net/2017/x/psets/4/pset4.html)
-2.[FCC - Make a person](https://www.freecodecamp.org/challenges/make-a-person)
+1. [CS50x - pset4](http://docs.cs50.net/2017/x/psets/4/pset4.html)
+2. [FCC - Make a person](https://www.freecodecamp.org/challenges/make-a-person)
 
 ### Day 34: October 15, 2017
 
@@ -139,7 +140,7 @@ FCC "make a person" was relatively easy to complete. It was interesting to see h
 **Thoughts** Worked through the different problem sets. They are pretty challenging because of the concept of pointers. Tried to do the more version of Resize after completing the more, abandoned doing it but hope to come back to it in the future.
 
 **Link(s) to work**
-1.[CS50x - pset4](http://docs.cs50.net/2017/x/psets/4/pset4.html)
+1. [CS50x - pset4](http://docs.cs50.net/2017/x/psets/4/pset4.html)
 
 ### Day 33: October 14, 2017
 
@@ -149,7 +150,7 @@ FCC "make a person" was relatively easy to complete. It was interesting to see h
 **Thoughts** Started working on pset4, 4 pomodori spent on the Whodunit problem.
 
 **Link(s) to work**
-1.[CS50x - pset4](http://docs.cs50.net/2017/x/psets/4/pset4.html)
+1. [CS50x - pset4](http://docs.cs50.net/2017/x/psets/4/pset4.html)
 
 ### Day 32: October 13, 2017
 
@@ -161,7 +162,7 @@ FCC "make a person" was relatively easy to complete. It was interesting to see h
 **Thoughts** Had only time to work on the portfolio at lunch break and read about grid and flexbox throughout the day.
 
 **Link(s) to work**
-1.[Github - FCC Portfolio ](https://github.com/X140hu4/FCC/tree/master/1.%20Portfolio)
+1. [Github - FCC Portfolio ](https://github.com/X140hu4/FCC/tree/master/1.%20Portfolio)
 ### Day 31: October 12, 2017
 
 **Today's Progress**:
@@ -171,8 +172,8 @@ FCC "make a person" was relatively easy to complete. It was interesting to see h
 **Thoughts** Completed the algorithm, there was an issue with my regexp test. It would return true when actually false, taking away the g element solved the problem but a better implementation of the regexp here for repeating characters is: /(.)\1+/g instead of building it from the str passed in argument. Spent two hours to work on the portfolio challenge.
 
 **Link(s) to work**
-1.[FCC - No Repeats Please](https://www.freecodecamp.org/challenges/no-repeats-please)
-2.[Github - FCC Portfolio ](https://github.com/X140hu4/FCC/tree/master/1.%20Portfolio)
+1. [FCC - No Repeats Please](https://www.freecodecamp.org/challenges/no-repeats-please)
+2. [Github - FCC Portfolio ](https://github.com/X140hu4/FCC/tree/master/1.%20Portfolio)
 
 ### Day 30: October 11, 2017
 
@@ -182,7 +183,7 @@ FCC "make a person" was relatively easy to complete. It was interesting to see h
 **Thoughts**  Worked 1h on No Repeats Please algorithm and helped people on gitter.
 
 **Link(s) to work**
-1.[FCC - No Repeats Please](https://www.freecodecamp.org/challenges/no-repeats-please)
+1. [FCC - No Repeats Please](https://www.freecodecamp.org/challenges/no-repeats-please)
 
 ### Day 29: October 10, 2017
 
@@ -193,8 +194,8 @@ FCC "make a person" was relatively easy to complete. It was interesting to see h
 **Thoughts**  Worked 1h on the game of fifteen and completed it. 2h20 on the clone resume task today, total above 10hours probably.
 
 **Link(s) to work**
-1.[CS50x - pset3](http://docs.cs50.net/2017/x/psets/3/pset3.html)
-2.[P1xt clone resume on github](https://github.com/X140hu4/Projects-p1xt/tree/master/Clone-resume)
+1. [CS50x - pset3](http://docs.cs50.net/2017/x/psets/3/pset3.html)
+2. [P1xt clone resume on github](https://github.com/X140hu4/Projects-p1xt/tree/master/Clone-resume)
 
 ### Day 28: October 9, 2017
 
@@ -204,7 +205,7 @@ FCC "make a person" was relatively easy to complete. It was interesting to see h
 **Thoughts**  Worked 1h30 on the game of fifteen.
 
 **Link(s) to work**
-1.[CS50x - pset3](http://docs.cs50.net/2017/x/psets/3/pset3.html)
+1. [CS50x - pset3](http://docs.cs50.net/2017/x/psets/3/pset3.html)
 
 ### Day 27: October 8, 2017
 
@@ -214,7 +215,7 @@ FCC "make a person" was relatively easy to complete. It was interesting to see h
 **Thoughts**  Started tracking progress on CS50x with trello and using pomello to count the amount of time spent on the challenges.
 
 **Link(s) to work**
-1.[CS50x - pset3](http://docs.cs50.net/2017/x/psets/3/pset3.html)
+1. [CS50x - pset3](http://docs.cs50.net/2017/x/psets/3/pset3.html)
 
 ### Day 26: October 7, 2017
 
@@ -242,7 +243,7 @@ No links Today
 **Thoughts**  Worked on a quick solution involving two loops to solve the FCC challenge. (40mins)
 
 **Link(s) to work**
-1.[FCC - Inventory update](https://www.freecodecamp.org/challenges/inventory-update)
+1. [FCC - Inventory update](https://www.freecodecamp.org/challenges/inventory-update)
 
 ### Day 23: October 4, 2017
 
@@ -255,7 +256,7 @@ No links Today
 Started working on pset3, in face to the difficulty, the number of information provided and the need to watch the additional video, I decided to mostly work on them on the week ends in order to allow more time for thoughts.
 
 **Link(s) to work**
-1.[FCC - Exact change](https://www.freecodecamp.org/challenges/exact-change)
+1. [FCC - Exact change](https://www.freecodecamp.org/challenges/exact-change)
 
 ### Day 22: October 3, 2017
 
@@ -266,7 +267,7 @@ Started working on pset3, in face to the difficulty, the number of information p
 **Thoughts**  The exact change has an issue with the float point. the remaining change would be less some thousandth value. (0.00958 instead of 0.01). Finished the navbar for the clones
 
 **Link(s) to work**
-1.[FCC - Exact change](https://www.freecodecamp.org/challenges/exact-change)
+1. [FCC - Exact change](https://www.freecodecamp.org/challenges/exact-change)
 
 ### Day 21: October 2, 2017
 
@@ -277,7 +278,7 @@ Started working on pset3, in face to the difficulty, the number of information p
 **Thoughts**  The FCC challenge was interesting for the maths and the logics. I started implementing a vanilla css grid for the cloning exercise.
 
 **Link(s) to work**
-1.[FCC - Symmetric Difference](https://www.freecodecamp.org/challenges/symmetric-difference)
+1. [FCC - Symmetric Difference](https://www.freecodecamp.org/challenges/symmetric-difference)
 
 ### Day 20: October 1, 2017
 
@@ -288,8 +289,8 @@ Started working on pset3, in face to the difficulty, the number of information p
 **Thoughts**  Started Advanced algo!
 
 **Link(s) to work**
-1.[CS50x - pset2s](http://docs.cs50.net/2017/x/psets/2/pset2.html)
-2.[FCC - Record Collection](https://www.freecodecamp.org/challenges/record-collection)
+1. [CS50x - pset2s](http://docs.cs50.net/2017/x/psets/2/pset2.html)
+2. [FCC - Record Collection](https://www.freecodecamp.org/challenges/record-collection)
 
 ### Day 19: September 30, 2017
 
@@ -300,8 +301,8 @@ Started working on pset3, in face to the difficulty, the number of information p
 **Thoughts**  Started Advanced algo!
 
 **Link(s) to work**
-1.[FCC - Validate US Telephone Numbers](https://www.freecodecamp.org/challenges/validate-us-telephone-numbers)
-2.[CS50x - pset2s](http://docs.cs50.net/2017/x/psets/2/pset2.html)
+1. [FCC - Validate US Telephone Numbers](https://www.freecodecamp.org/challenges/validate-us-telephone-numbers)
+2. [CS50x - pset2s](http://docs.cs50.net/2017/x/psets/2/pset2.html)
 
 ### Day 18: September 29, 2017
 
@@ -312,8 +313,8 @@ Started working on pset3, in face to the difficulty, the number of information p
 **Thoughts** End of the intermediate challenges!!!
 
 **Link(s) to work**
-1.[FCC - Missing letters](https://www.freecodecamp.org/challenges/missing-letters)
-2.[p1xt - resume template](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2)
+1. [FCC - Missing letters](https://www.freecodecamp.org/challenges/missing-letters)
+2. [p1xt - resume template](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2)
 
 ### Day 17: September 28, 2017
 
@@ -325,8 +326,8 @@ Started working on pset3, in face to the difficulty, the number of information p
 **Thoughts** CS50x gets to more interesting things like sorting algorithm. Loving it :) FCC's challenge on truthy did not feel hard but I got a pretty compact code to solve it.
 
 **Link(s) to work**
-1.[FCC - Everything Be True](https://www.freecodecamp.org/challenges/everything-be-true)
-3.[p1xt - resume template](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2)
+1. [FCC - Everything Be True](https://www.freecodecamp.org/challenges/everything-be-true)
+3. [p1xt - resume template](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2)
 
 ### Day 16: September 27, 2017
 
@@ -337,7 +338,7 @@ Started working on pset3, in face to the difficulty, the number of information p
 **Thoughts** CS50x is starting to get pretty tough. I spent one hour and some googling to figure out how to tokenize the string provided in argument. The first problem of pset2 was receiving a string with names and spaces in input and giving the initials capitalized in output.
 
 **Link(s) to work**
-1.[FCC - Binary Agent](https://www.freecodecamp.org/challenges/binary-agents)
+1. [FCC - Binary Agent](https://www.freecodecamp.org/challenges/binary-agents)
 
 ### Day 15: September 26, 2017
 
@@ -348,7 +349,7 @@ Started working on pset3, in face to the difficulty, the number of information p
 **Thoughts** Not a very productive day. Had to backup files and clean install the computer.
 
 **Link(s) to work**
-1.[FCC - Steamroller](https://www.freecodecamp.org/challenges/steamroller)
+1. [FCC - Steamroller](https://www.freecodecamp.org/challenges/steamroller)
 
 ### Day 14: September 25, 2017
 
@@ -359,7 +360,7 @@ Started working on pset3, in face to the difficulty, the number of information p
 **Thoughts** Not a very productive day. Had to backup files and clean install the computer.
 
 **Link(s) to work**
-1.[FCC - Drop It](https://www.freecodecamp.org/challenges/drop-it)
+1. [FCC - Drop It](https://www.freecodecamp.org/challenges/drop-it)
 
 ### Day 13: September 24, 2017
 
@@ -371,7 +372,7 @@ Started working on pset3, in face to the difficulty, the number of information p
 **Thoughts** CS50x pset1 over! The mario and credit card pset were pretty hard but I got through!. Starting working on my portfolio at last. Getting some ideas from other campers' portfolios.
 
 **Link(s) to work**
-1.[Codewars-Calculate BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb)
+1. [Codewars-Calculate BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb)
 
 ### Day 12: September 23, 2017
 
@@ -421,20 +422,6 @@ Started the problems of pset1, first two were pretty easy, got blocked at Mario.
 1. [FCC] Worked on intermediate algorithm challenge "Smallest Common Multiple".
 2. [CS50x] Watched about 1 hour of CS50x week 1 class.
 3. [CS50x] Worked on Simon's game mechanics in scratch. Completed the feedback loop between game sequence and player sequence.
-
-**Thoughts** The FCC challenge on Smallest Common Multiple is rough... still working on it. The CS50x W01 class has the main mechanics in.
-
-**Link(s) to work**
-1. [Smallest Common Multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple)
-2. [CS50x W01](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/d0c88865e9434f17808f54870ea230a1/da6b01d04a5643e796a4ec904db9363c/?child=first)
-3. [Simon's game in Scratch](https://scratch.mit.edu/projects/174977266/#editor)
-
-### Day 8: September 19, 2017
-
-**Today's Progress**:
-1. [FCC] Worked on intermediate algorithm challenge "Smallest Common Multiple".
-2. [CS50x] Watched about 1 hour of CS50x week 1 class.
-3. [CS50x] Worked on Simon's game mechanics in scratch. Built the randomization of button, answer, check between game sequence and player sequence.
 
 **Thoughts** The FCC challenge on Smallest Common Multiple is pretty tough. I will continue tomorrow on it. The CS50x W01 class is pretty interesting and I am making pretty good progress on the pset0, albeit I had to peek into someone else's solution I try to work the programing by myself.
 
