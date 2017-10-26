@@ -69,8 +69,8 @@ Finished the random quote machine project. Chose to write the JS in vanilla JS a
 Had some initial issues with setting up the local weather's API connection. My request to the API was outside the function that got the position so there was some timing issues.
 
 **Link(s) to work**
-2. [FCC - Random Quote Machine on Codepen](https://codepen.io/freeCodeCamp/full/ONjoLe)
-3. [FCC - Local Weather on Codepen](https://codepen.io/X140hu4/pen/Bwbdby)
+1. [FCC - Random Quote Machine on Codepen](https://codepen.io/freeCodeCamp/full/ONjoLe)
+2. [FCC - Local Weather on Codepen](https://codepen.io/X140hu4/pen/Bwbdby)
 
 ### Day 38: October 19, 2017
 
@@ -84,7 +84,7 @@ Had some initial issues with setting up the local weather's API connection. My r
 Reviewed "SON APIs and AJAX", need to dig deeper in order to complete the Random quote project.
 
 **Link(s) to work**
-2. [fCC - JSON API and AJAX](https://www.freecodecamp.org/challenges/trigger-click-events-with-jquery)
+1. [fCC - JSON API and AJAX](https://www.freecodecamp.org/challenges/trigger-click-events-with-jquery)
 
 
 ### Day 37: October 18, 2017
