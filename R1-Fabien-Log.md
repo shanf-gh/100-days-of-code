@@ -1,5 +1,71 @@
 # 100 Days Of Code - Log
 
+### Day 48: October 30, 2017
+
+**Today's Progress**:
+1. [fCC] Completed fCC Local Weather (1p - tot: 4h30)
+
+**Thoughts**
+Completed the fCC Local Weather project ! Had an issue when trying to change the temperature. The formula was not right, when the temperature was in Fahrenheit it would correctly substract 32 but wrongly multiply by 9/5 instead of 5/9.
+
+**Link(s) to work**
+1.[fCC - Local Weather](https://codepen.io/X140hu4/pen/Bwbdby)
+
+### Day 48: October 30, 2017
+
+**Today's Progress**:
+1. [Coding Artist] Completed Introduction to Pure CSS Images
+2. [fCC] Worked on fCC Local Weather (1p)
+3. [CS50x] Continued watching w08 Python.
+
+
+**Thoughts**
+Jumped to October 30. October 29 was spent at Universal Studio Japan, not much time after getting back to work on coding :( The day was fun though ^^.
+Started a course on Pure CSS Images as part of [Prep for “Suck less at CSS” November](https://medium.com/p1xts-blog/mini-challenge-prep-for-suck-less-at-css-november-b04b30799ef6) by P1xt.
+Had an issue when trying to change the temperature. The formula was not right, when the temperature was in Fahrenheit it would correctly substract 32 but wrongly multiply by 9/5 instead of 5/9.
+
+**Link(s) to work**
+1.[Coding Artist - How to Make Pure CSS Images to Progress With Design-Focused Frontend Development](https://coding-artist.teachable.com/courses/enrolled/155435)
+
+### Day 47: October 28, 2017
+
+**Today's Progress**:
+1. [fCC] Worked on fCC Local Weather (1p)
+2. [CS50x] Started watching w08 Python.
+
+**Thoughts**
+Pretty busy day, could not squeeze much work but watched the videos w06-07 on HTML&CSS and Machine Learning during the week and started watching w08 on Python.
+The weather API create several objects in the main object's array depending on the weather, there should be a logic to check how many there are and check for the existence of the proeprty "icon".
+
+**Link(s) to work**
+1.[fCC - Local Weather](https://github.com/X140hu4/FCC/tree/master/3.%20Local%20Weather)
+
+
+### Day 46: October 27, 2017
+
+**Today's Progress**:
+1. [fCC] Worked on fCC Local Weather (3p)
+
+**Thoughts**
+The date responseText returned by the request could be printed in the innerHTML. However I could not access the values inside, the solution was to use `var data = JSON.parse(reqResponse);` in order to turn the response into a JS object which can be accessed.
+Decided to implement a MED version of the project.
+
+**Link(s) to work**
+1.[fCC - Local Weather](https://github.com/X140hu4/FCC/tree/master/3.%20Local%20Weather)
+
+### Day 45: October 26, 2017
+
+**Today's Progress**:
+1. Completed CSS Grid Garden (1p - 25 mins)
+2. Completed CSS Flexbox Froggy (7/8p - 23mins)
+
+**Thoughts**
+Both tutorials CSS Grid and Flexbox were good and more challenging as the tutorials progress. Next interesting tutorial would be [Flexbox zombie](https://geddski.teachable.com/courses/enrolled/139425).
+
+**Link(s) to work**
+1.[CSS Grid Garden](http://cssgridgarden.com)
+2.[CSS Flexbox Froggy](http://flexboxfroggy.com)
+
 ### Day 44: October 25, 2017
 
 **Today's Progress**:
