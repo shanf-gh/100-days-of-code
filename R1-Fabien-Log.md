@@ -1,9 +1,28 @@
 # 100 Days Of Code - Log
 
-### Day 48: October 30, 2017
+### Day 49: November 01, 2017
+
+**Today's Progress**:
+1. [CSS Challenge] Set up and start with #001 Tile
+2. [fCC - Wikipedia viewer] Read documentation and start coding.
+3. [CS50x] Finished watching w08 Python
+4. [CSS Dinner] Review CSS
+5. [Reading]
+
+**Thoughts**
+Started P1xt suck less november challenge.
+Started reading the wikipedia API's documentation. It does not seem too difficult. The difficult part will be the dynamic parts of the page.
+Python has a very different syntax from C and Javascript, I wonder how much getting used to it will need to re-implement the programs of the first psets.
+CSS Dinner was a good review of CSS selectors.
+Did a lot of reading about design, CSS layout.
+
+**Link(s) to work**
+
+### Day 48: October 31, 2017
 
 **Today's Progress**:
 1. [fCC] Completed fCC Local Weather (1p - tot: 4h30)
+
 
 **Thoughts**
 Completed the fCC Local Weather project ! Had an issue when trying to change the temperature. The formula was not right, when the temperature was in Fahrenheit it would correctly substract 32 but wrongly multiply by 9/5 instead of 5/9.
