@@ -1,9 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 50: November 02, 2017
+
+**Today's Progress**:
+1. [CSS Challenge] Completed #001 Tile, started #002 Menu (4p)
+2. [CS50x] Finished Mario.py, started Credit.py (tot 3 problems)
+
+
+**Thoughts**
+CSS Challenge is nice to explore more CSS manipulation. Tile was good to review what I learned from the introduction to pure css image course. The menu challenge is challenging for interaction with the css and animation.
+Started writing python programs based on the previous psets. Mario was pretty straightforward and is much smaller than the C equivalent. Credit is a little bit more complicated because I used switch statement that do not exist in Python. Tried running the code, started debugging with prints in order to determine where the problems are arising.
+
+
+**Link(s) to work**
+1.[CSS Challenge - #001 Title](https://codepen.io/X140hu4/full/JOYGpL/)
+2.[CSS Challenge - #002 Menu](https://codepen.io/X140hu4/pen/mqVdLM)
+
 ### Day 49: November 01, 2017
 
 **Today's Progress**:
-1. [CSS Challenge] Set up and start with #001 Tile
+1. [CSS Challenge] Set up and start with #001 Tile (1p)
 2. [fCC - Wikipedia viewer] Read documentation and start coding.
 3. [CS50x] Finished watching w08 Python
 4. [CSS Dinner] Review CSS
@@ -17,6 +33,7 @@ CSS Dinner was a good review of CSS selectors.
 Did a lot of reading about design, CSS layout.
 
 **Link(s) to work**
+1.[CSS Challenge - #001 Title](https://codepen.io/X140hu4/pen/JOYGpL)
 
 ### Day 48: October 31, 2017
 
