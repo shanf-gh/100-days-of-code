@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 52: November 04, 2017
+
+**Today's Progress**:
+1. [CS50x] Finished sentiments (tot: 2h52)
+2. [PH Project] Started working on a new PH website (7p)
+
+**Thoughts**
+Sentiments took some time to complete but was interesting and very cool to work on.
+Started to work on a new website for peace house. Started making a page about suzunami to present to Yumiko.
+
+**Link(s) to work**
+No links!
+
+### Day 51: November 03, 2017
+
+**Today's Progress**:
+1. [CS50x] Finished credit.py (36min - tot 1h01), Finished Vigenere.py (49mins), started Sentiments.
+
+**Thoughts**
+Going through the pset6, getting used to Python syntax and logics. Sentiments has a lot of documentation to read an watch before being able to do implement anything. The implementation looks pretty cool.
+
+**Link(s) to work**
+No links!
+
 ### Day 50: November 02, 2017
 
 **Today's Progress**:
@@ -10,7 +34,6 @@
 **Thoughts**
 CSS Challenge is nice to explore more CSS manipulation. Tile was good to review what I learned from the introduction to pure css image course. The menu challenge is challenging for interaction with the css and animation.
 Started writing python programs based on the previous psets. Mario was pretty straightforward and is much smaller than the C equivalent. Credit is a little bit more complicated because I used switch statement that do not exist in Python. Tried running the code, started debugging with prints in order to determine where the problems are arising.
-
 
 **Link(s) to work**
 1.[CSS Challenge - #001 Title](https://codepen.io/X140hu4/full/JOYGpL/)
