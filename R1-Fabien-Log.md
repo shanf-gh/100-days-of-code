@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log
 
+### Day 54: November 06, 2017
+
+**Today's Progress**:
+1. [CS50x] Started watching w09 course on SQL (30mins)
+2. [JS30] Watched 01 - Javascript drumkit (20mins)
+3. [fCC - Wikipedia Viewer] Managed to output values to DOM from the API query response. (1h15mins)
+4. [MongoDB] Started first few videos (10mins)
+
+**Thoughts**
+CS50 course is not too bad, there is a lot of supporting videos so I will need to watch a lot of them by the end of the week.
+JS30 is pretty interesting. I will try to do at least 3 per week. Watch then do.
+As always, pretty hard to find how to do things without frameworks in JS. Using the keywords pure JS instead of vanilla JS gives more results. The performance are much better apparently but harder to code and maintain, so the use of pure or framework will depend of the size of a project I imagine.
+I forgot I subscribed to the mongoDB university's introductory course. Downloaded the app and it is pretty neat, I can download the videos there and have the quizzes.
+
+**Link(s) to work**
+1.[CS50x](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/d0c88865e9434f17808f54870ea230a1/5f245ed1b5004cdcb2f37a09ea90f05d/?activate_block_id=block-v1%3AHarvardX%2BCS50%2BX%2Btype%40sequential%2Bblock%405f245ed1b5004cdcb2f37a09ea90f05d)
+2.[fCC - Wiki Viewer on codepen](https://codepen.io/X140hu4/pen/gXMZrR)
+3.[MongoDB - Basics](https://university.mongodb.com/mercury/M001/2017_October_2/syllabus)
+
+
+### Day 53: November 05, 2017
+
+**Today's Progress**:
+1. [fCC - Wikipedia Viewer] Random quote link and learning about wikipedia API  (1h40mins)
+
+**Thoughts**
+The documentation for the wiki API is hard to understand and there is a lot of parameters.
+
+**Link(s) to work**
+
 ### Day 52: November 04, 2017
 
 **Today's Progress**:
