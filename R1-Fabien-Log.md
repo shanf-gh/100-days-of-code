@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 55: November 07, 2017
+
+**Today's Progress**:
+1. [CS50x] Watched week9 (40mins)
+2. [MongoDB] Finished week 1 (1h)
+
+**Thoughts**
+Watched CS50x videos.
+MongoDB was interesting but the version that was available was very buggy. I had to reload the whole app to analyze a new datasets. I had to reinstall it because of some JS error. Then the map did not show properly on the last lab...
+I noticed there was a new version on the mongoDB website.
+
+**Link(s) to work**
+1.[MongoDB - Basics](https://university.mongodb.com/mercury/M001/2017_October_2/syllabus)
+
 ### Day 54: November 06, 2017
 
 **Today's Progress**:
