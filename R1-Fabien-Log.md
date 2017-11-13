@@ -1,5 +1,73 @@
 # 100 Days Of Code - Log
 
+### Day 61: November 13, 2017
+**Today's Progress**:
+1. [CS50x] Continued working on C$50 Finance (3p)
+
+**Thoughts**
+Implemented buy. Needed to convert some numbers to float and precisely select cash in the list returned by the SQL select to make the comparison. Started implementing the index page, stopped at building the SQL select to get values and calculate the total on the fly.
+
+**Link(s) to work**
+No link!
+
+### Day 60: November 12, 2017
+**Today's Progress**:
+1. [CS50x] Continued working on C$50 Finance (4p)
+
+**Thoughts**
+Got more comfortable with the interactions between python, flask, sql and html. Finished implementing register, quote. Started implementing buy, which needs to interact more with the SQL database.
+
+
+**Link(s) to work**
+No link!
+
+### Day 59: November 11, 2017
+**Today's Progress**:
+1. [CS50x] Started working on C$50 Finance (3p)
+2. [fCC - Twitch TV] Figured why only last API request was completed (2p)
+
+**Thoughts**
+CS50 Finance has some documentation but not too much. The challenge is to work with python, flask, sql and html at the same time to provide a web app.
+The problem with the fCC API request was that I had the xhr request outside of the loop that made the request. The code made a request on the same object each time. The problem was solved by moving the new xhr creation in the loop so that it creates a different xhr object for each iteration.
+
+**Link(s) to work**
+1.[fCC-Twitch TV](https://codepen.io/X140hu4/full/KyaZvX/)
+
+### Day 58: November 10, 2017
+**Today's Progress**:
+1. [fCC - Twitch TV] Got JSON back but issue with loop through channels (1p)
+
+
+**Thoughts**
+From the fCC project, I get only the last channel's data. Send a message on the gitter chat to get some help.
+
+**Link(s) to work**
+1.[fCC-Twitch TV](https://codepen.io/X140hu4/full/KyaZvX/)
+
+### Day 57: November 09, 2017
+
+**Today's Progress**:
+1. [CS50x] Finished watching week 9 course and started watching the additional videos
+2. [fCC] Starting fCC Twitch viewer project (2p)
+
+**Thoughts**
+Struggling with the Twitch API... The link is correct and return the JSON in the browser but returns errors when using it in the JS.
+
+**Link(s) to work**
+1.[fCC-Twitch TV](https://codepen.io/X140hu4/full/KyaZvX/)
+
+### Day 56: November 08, 2017
+
+**Today's Progress**:
+1. [CS50x] Watched week9 (40mins)
+2. [fCC] Completed Wikipedia Viewer (1p - 4h10)
+
+**Thoughts**
+This week's CS50 course has a lot of new things packed into it. It is a little confusing with the flask server side syntax.
+
+**Link(s) to work**
+1.[fCC - Wiki viewer on codepen](https://codepen.io/X140hu4/full/gXMZrR/)
+
 ### Day 55: November 07, 2017
 
 **Today's Progress**:
