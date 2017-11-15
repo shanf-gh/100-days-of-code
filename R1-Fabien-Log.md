@@ -1,14 +1,26 @@
 # 100 Days Of Code - Log
 
+
+### Day 63: November 15, 2017
+**Today's Progress**:
+[CS50x] Completed implementation of index (3p)
+
+**Thoughts**
+Instead of using the usd function from helper.py, I format it directly in the flask html. Styling took some time, and felt like I cheated for the total row by having a first td element span 4 columns.
+
+**Link(s) to work**
+No link!
+
 ### Day 62: November 14, 2017
 **Today's Progress**:
 1. [MongoDB] Week 2 of mongoDB basics
+2. [CS50x] Continued working on C$50 Finance (1p)
 
 **Thoughts**
  Started 2nd week but being very long and being late... There are a lot of things that do not work in the course :/ It looks pretty similar to SQL anyway so having experience with it and using it for CS50x I can pick it up later. Most of the course was spent installing their softwares, creating accounts on supporting webapps...
-
+ CS50x : Managed to get a new column with the product of shares and price. However the total is not correct...
 **Link(s) to work**
-No link!s
+No link!
 
 
 ### Day 61: November 13, 2017
