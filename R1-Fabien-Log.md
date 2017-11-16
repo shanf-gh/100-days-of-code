@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 64: November 16, 2017
+**Today's Progress**:
+[CS50x] Implemented sell (3p)
+
+**Thoughts**
+Completed the implementation of sell. Issue with the sums and values returned for index.
+
+**Link(s) to work**
+No link!
 
 ### Day 63: November 15, 2017
 **Today's Progress**:
