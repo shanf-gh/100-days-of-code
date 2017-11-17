@@ -1,8 +1,21 @@
 # 100 Days Of Code - Log
 
+
+### Day 65: November 17, 2017
+**Today's Progress**:
+1. [CS50x] Correction of index.html
+2. [CS50x] Implemented history
+3. [CS50x] Started implementing password change
+
+**Thoughts**
+Corrected average price calculation for index.html. Implementation of history was pretty easy, based on index's table and queries. Started implementing password change. Noticed I can send a notification to the layout, I will use next session to figure out how to do it and implement it.
+
+**Link(s) to work**
+No link!
+
 ### Day 64: November 16, 2017
 **Today's Progress**:
-[CS50x] Implemented sell (3p)
+1. [CS50x] Implemented sell (3p)
 
 **Thoughts**
 Completed the implementation of sell. Issue with the sums and values returned for index.
@@ -12,7 +25,7 @@ No link!
 
 ### Day 63: November 15, 2017
 **Today's Progress**:
-[CS50x] Completed implementation of index (3p)
+1. [CS50x] Completed implementation of index (3p)
 
 **Thoughts**
 Instead of using the usd function from helper.py, I format it directly in the flask html. Styling took some time, and felt like I cheated for the total row by having a first td element span 4 columns.
