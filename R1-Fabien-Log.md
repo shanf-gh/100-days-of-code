@@ -1,6 +1,52 @@
 # 100 Days Of Code - Log
 
 
+### Day 70: November 22, 2017
+**Today's Progress**:
+**Thoughts**
+**Link(s) to work**
+
+### Day 69: November 21, 2017
+**Today's Progress**:
+**Thoughts**
+**Link(s) to work**
+
+### Day 68: November 20, 2017
+**Today's Progress**:
+1. [CS50x] Continued reading through pset8's documentation (2p)
+2. [CS50x] Started watching week 11 contents
+
+**Thoughts**
+There is a lot of things but nothing too complicated for Google API's.
+I will try to use jQuery instead of using pure JS, as I have done so far.
+There are a lot of videos for week 11 for the Final project. 
+
+**Link(s) to work**
+1.[jQuery website](http://jquery.com)
+
+
+### Day 67: November 19, 2017
+**Today's Progress**:
+1. [CS50x] Started pset8 - Mashup (4p)
+
+**Thoughts**
+Mashup is:
+There is a lot of documentation to read before starting to code anything. I started reading through and taking notes about the Google Maps Javascript API.
+Read introduction, markups and started info windows.
+
+**Link(s) to work**
+1.[Google Maps API:Docs](https://developers.google.com/maps/)
+
+### Day 66: November 18, 2017
+**Today's Progress**:
+1. [CS50x] Completed pset7 (2p)
+
+**Thoughts**
+Very cool pset. Completed password change and added messages "flash" to provide feedback to user (transaction completed, password change successful, etc.)
+
+**Link(s) to work**
+No link!
+
 ### Day 65: November 17, 2017
 **Today's Progress**:
 1. [CS50x] Correction of index.html
