@@ -1,15 +1,17 @@
 # 100 Days Of Code - Log
 
 
-### Day 70: November 22, 2017
-**Today's Progress**:
-**Thoughts**
-**Link(s) to work**
+
 
 ### Day 69: November 21, 2017
 **Today's Progress**:
+1. [CS50x] Continued reading through pset8's documentation (3p)
+
 **Thoughts**
+Reading through jQuery documentation. Core components, selectors and $.ajax().
+
 **Link(s) to work**
+No link!
 
 ### Day 68: November 20, 2017
 **Today's Progress**:
@@ -19,7 +21,7 @@
 **Thoughts**
 There is a lot of things but nothing too complicated for Google API's.
 I will try to use jQuery instead of using pure JS, as I have done so far.
-There are a lot of videos for week 11 for the Final project. 
+There are a lot of videos for week 11 for the Final project.
 
 **Link(s) to work**
 1.[jQuery website](http://jquery.com)
