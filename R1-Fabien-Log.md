@@ -1,7 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 70: November 23, 2017
+**Today's Progress**:
+1. [CS50x] Continued reading through pset8's documentation (2p)
 
+**Thoughts**
+The documentation is looong. I started to forget some things... good thing I took notes... I started working on the mashup.db. Need to import data from US.txt file.
+
+**Link(s) to work**
+No link!
 
 ### Day 69: November 21, 2017
 **Today's Progress**:
