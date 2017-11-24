@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+
+### Day 71: November 24, 2017
+**Today's Progress**:
+1. [CS50x] Started working on application.py and script.js files
+
+**Thoughts**
+Started working on the application.py file. Completed implementation of articles.
+Implemented basic search function, need to come back to it later. Started on configure function in scrip.js
+
+**Link(s) to work**
+No link!
+
 ### Day 70: November 23, 2017
 **Today's Progress**:
 1. [CS50x] Continued reading through pset8's documentation (2p)
