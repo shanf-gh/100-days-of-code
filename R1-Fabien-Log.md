@@ -1,6 +1,25 @@
 # 100 Days Of Code - Log
 
 
+### Day 73: November 27, 2017
+**Today's Progress**:
+1. [CS50x] Completed pset8 (3p)
+
+**Thoughts**
+Finished working on pset8 mashup. Minimal coding involved but a lot of reading and things to understand in order to implement the solution. It was interesting learning about the Gmaps API and the news API.
+
+**Link(s) to work**
+No link!
+
+### Day 72: November 26, 2017
+**Today's Progress**:
+1. [CS50x] Continuing working on pset8 (3p)
+
+**Thoughts**
+Working with markers from the Google Maps API.
+
+**Link(s) to work**
+No link!
 
 ### Day 71: November 24, 2017
 **Today's Progress**:
