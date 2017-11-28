@@ -7,7 +7,7 @@
 
 ### Day 74: November 28, 2017
 **Today's Progress**:
-1. [fCC - Twitch]
+1. [fCC - Twitch] Struggling on xhr requests
 2. [ChinguVoyage] Set up slack and read a bit about how to use it
 3. [Colt Bootcamp] started reading and watching videos. Got o [02.10]
 
