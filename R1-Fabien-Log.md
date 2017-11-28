@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 75: November 29, 2017
+**Today's Progress**:
+**Thoughts**
+**Link(s) to work**
+
+### Day 74: November 28, 2017
+**Today's Progress**:
+1. [fCC - Twitch]
+2. [ChinguVoyage] Set up slack and read a bit about how to use it
+3. [Colt Bootcamp] started reading and watching videos. Got o [02.10]
+
+**Thoughts**
+Struggling with fCC's twitch project... Found that I needed to use "stream" instead of "channel" in my endpoint in order to identify if a channel was online or not. Now I cannot get the logo from the API reponse ^^;
+Got started on the chingu voyage3 ! Got slack set up to communicate with everyone <3
+Got started on Colt Steele's "The Web Developer Bootcamp" bought from Udemy for 1200Y instead of 24k!
+
+**Link(s) to work**
+No links!
 
 ### Day 73: November 27, 2017
 **Today's Progress**:
