@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 
+### Day 81: December 05, 2017
+**Today's Progress**:
+1. [fCC - Twitch] Implemented toggle functionality and started styling (2p)
+2. [MERN] Installed mongoDB
+
+**Thoughts**
+fCC: Finished All/Online/Offline toggle with getElementsByClassName, GetElementByID, addEventListener and element.style.display = "block". Had to wrap the row with a div.online/offline, otherwise messed up the display CSS prop. Manage status that are too long by using reduce on string.
+Got tutorials for MERN from tutorialspoint and installed mongoDB.
+
+**Link(s) to work**
+1.[fCC Twitch - Codepen](https://codepen.io/X140hu4/pen/KyaZvX?editors=0110)
 
 ### Day 80: December 04, 2017
 **Today's Progress**:
