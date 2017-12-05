@@ -1,9 +1,72 @@
 # 100 Days Of Code - Log
 
+
+
+### Day 80: December 04, 2017
+**Today's Progress**:
+1. [fCC - Twitch] (1p)
+2. [Chingu - Voyage 3] (2hours)
+
+**Thoughts**
+fCC: Disabling links, identifying and selecting offline and online rows.
+Chingu: Talking about project ideas and making a shortlist of ideas to choose for Wednesday.
+
+**Link(s) to work**
+1.[fCC Twitch - Codepen](https://codepen.io/X140hu4/pen/KyaZvX?editors=1010)
+2.[#geckos-26 - Hack MD](https://hackmd.io/GwBgrATApgjFDGBaAzLALItBOYGBGMAHAGaJgAm0MIhWM8exQA==?both)
+
+### Day 79: December 03, 2017
+**Today's Progress**:
+1. [fCC - Twitch] (2p)
+
+**Thoughts**
+Managed to build rows dynamically. Need to polish because rows are created for offline channels. Finished query and output to DOM logics. Working on all, online, offline filters.
+
+**Link(s) to work**
+1.[fCC Twitch - Codepen](https://codepen.io/X140hu4/pen/KyaZvX?editors=1010)
+
+### Day 78: December 02, 2017
+**Today's Progress**:
+1. [Chingu - Voyage 3] Team brainstrom and organisation
+2. [fCC - Twitch] Initial styling of results rows (3p)
+
+**Thoughts**
+Aligning list items and text for the top menu. Working on styling of each result row. Building the function in JS to create the row node dynamically.
+Chingu: Some idea have been thrown in the wild.
+
+**Link(s) to work**
+1.[#geckos-26 - Hack MD](https://hackmd.io/GwBgrATApgjFDGBaAzLALItBOYGBGMAHAGaJgAm0MIhWM8exQA==?both)
+
+### Day 77: December 01, 2017
+**Today's Progress**:
+1. [Chingu - Voyage 3] Team assignment and talks
+
+**Thoughts**
+Met the geckos-26 teammates and chatted with everyone to kickstart the voyage. (2hours)
+
+**Link(s) to work**
+1.[Chingu #geckos-26](https://chingu-voyage3.slack.com/messages/C885L1SAH)
+
+
+### Day 76: November 30, 2017
+**Today's Progress**:
+1. [fCC - Twitch] Managed to get online/offline response (2p)
+
+**Thoughts**
+Trying with callback. Broken down the function into two separate. One to iterate through the array and one to process the response. Managed to separate online and offline channels. Started working on HTML&CSS.
+
+**Link(s) to work**
+No links!
+
 ### Day 75: November 29, 2017
 **Today's Progress**:
+1. [fCC - Twitch] Continue the struggle yay! (2p)
+
 **Thoughts**
+What did I learn today? How to go around the problem. XHR requests are bitches, should I try with jQuery first?...
+
 **Link(s) to work**
+No links!
 
 ### Day 74: November 28, 2017
 **Today's Progress**:
