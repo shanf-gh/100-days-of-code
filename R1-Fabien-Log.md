@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+### Day 82: December 06, 2017
+**Today's Progress**:
+1. [fCC - Twitch] Completed project (2p)
+2. [MERN] Installed Node and started some tuts (1p)
+
+**Thoughts**
+Coloring page. Adding arrows. Completed code. Added some comment and styling. Copy/pasted code to codepen and completed the challenge on fCC.
+
+**Link(s) to work**
+1.[fCC Twitch - Codepen](https://codepen.io/X140hu4/pen/KyaZvX?editors=0010)
+2.[MERN - tutorial](https://appdividend.com/2017/06/28/mern-stack-tutorial/)
+
 ### Day 81: December 05, 2017
 **Today's Progress**:
 1. [fCC - Twitch] Implemented toggle functionality and started styling (2p)
