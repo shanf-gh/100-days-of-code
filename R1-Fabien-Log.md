@@ -1,6 +1,47 @@
 # 100 Days Of Code - Log
 
 
+### Day 85: December 09, 2017
+**Today's Progress**:
+1. [geckos-26] Familiarize with the MERN stack (3p)
+
+**Thoughts**
+Today I have spent 1h20 to work through a MERN tutorial to familiarize myself with the structure, syntax and tools.
+Started Step 4: Create a form. So you need to import the different packages in the js files used to route data, but also import any component needed.
+Got to Step6 Make a NodeJS Expres project. Went through creating a form styled with bootstrap and having a service file to submit the form to the backend (NodeJS+Express)
+Got express to work. Needed to go to the comments to get the 'Hello express'' block of code that was missing.
+
+**Link(s) to work**
+1.[MERN tutorial](https://appdividend.com/2017/06/28/mern-stack-tutorial/)
+
+### Day 84: December 08, 2017
+**Today's Progress**:
+1. [fCC - Twitch] Improvement based on feedback
+2. [geckos-26] Welcome list on trello with general info
+3. [geckos-26] Given information about organisation of Sprint 0
+4. [geckos-26] Set stand-up dates
+
+**Thoughts**
+Received feedback for Twitch project. Made some modification to reduce the number of repetition in the JS and added a few id in the HTML.
+Finished first version of the welcome list on trello.
+Start of Sprint0! We are going to learn more about the MERN stack and work on the user stories.
+
+**Link(s) to work**
+1.[fCC Twitch TV feedback post](https://forum.freecodecamp.org/t/twitch-tv-project-feedback/162519/5)
+
+### Day 83: December 07, 2017
+**Today's Progress**:
+1. [fCC] Advanced algorithm: Pairwise (2p)
+2. [geckos-26] Decided on project and stack
+3. [geckos-26] Modified trello board with PM stuff
+
+**Thoughts**
+Working on the last advanced algorithm challenge: Pairwise. Using nested for loops, then trying with reduce.
+
+**Link(s) to work**
+1.[fCC - Pairwise](https://www.freecodecamp.org/challenges/pairwise)
+2.[geckos-26 Trello board](https://trello.com/b/eNxua3fZ/act-1-project-setup)
+
 ### Day 82: December 06, 2017
 **Today's Progress**:
 1. [fCC - Twitch] Completed project (2p)
@@ -8,6 +49,7 @@
 
 **Thoughts**
 Coloring page. Adding arrows. Completed code. Added some comment and styling. Copy/pasted code to codepen and completed the challenge on fCC.
+Wrote a post to request feedback on the project.
 
 **Link(s) to work**
 1.[fCC Twitch - Codepen](https://codepen.io/X140hu4/pen/KyaZvX?editors=0010)
