@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log
 
+### Day 88: December 12, 2017
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s) to work**
+
+### Day 87: December 11, 2017
+**Today's Progress**:
+1.[geckos-26] Finished the MERN tutorial (3p)
+
+**Thoughts**
+Got through "Step 9: Install CORS Middleware", "Step 10: Make routes for our application", "Step 11: Crate mongoose schema". Typing the code for the backend. Started Step 12. Blocked at Step 13: Make editItem.js file. Errors. Finished tutorial. Trying to find where the problem is...
+The tutorial was helpful in navigating how a MERN app is made and what the code looks like.
+
+**Link(s) to work**
+1.[MERN Stack tutorial](https://appdividend.com/2017/06/28/mern-stack-tutorial/)
+
+### Day 86: December 10, 2017
+**Today's Progress**:
+1.[geckos-26] Reading the tutorialspoint Express.js tutorial
+
+**Thoughts**
+Read up to halfway of the Express.js tutorial. I need to practice the code though...
+
+**Link(s) to work**
+No link!
 
 ### Day 85: December 09, 2017
 **Today's Progress**:
