@@ -1,11 +1,64 @@
 # 100 Days Of Code - Log
 
-### Day 88: December 12, 2017
+### Day 93: December 17, 2017
 **Today's Progress**:
+1.[fCC video] Finished the tutorial "Build a Node.js API" with files and working example
+2.[geckos-26] Started official React tutorial
+3.[geckos-26] End of sprint 1, started sprint 2 and gave some ideas to explore and objective to attain
 
 **Thoughts**
 
 **Link(s) to work**
+1.[Official React tutorial](https://reactjs.org/tutorial)
+
+
+### Day 92: December 16, 2017
+**Today's Progress**:
+1.[fCC video] "Build a Node.js API" continued coding along
+
+**Thoughts**
+
+**Link(s) to work**
+No link!
+
+### Day 91: December 15, 2017
+**Today's Progress**:
+1.[geckos-26] Merged Archit's branch to master
+
+**Thoughts**
+Made the merge on github's website. Is it possible to do it through the bash? if yes, how?
+
+**Link(s) to work**
+No link!
+
+### Day 90: December 14, 2017
+**Today's Progress**:
+1.[geckos-26] Continued reading tutorials point on React
+
+**Thoughts**
+Read up to the Flux concept.
+
+**Link(s) to work**
+1.[Tutorials point - ReactJS Flux concept](https://www.tutorialspoint.com/reactjs/reactjs_flux_concept.htm)
+
+### Day 89: December 13, 2017
+**Today's Progress**:
+1.[fCC video] Watched Build a Node.js API (3p)
+
+**Thoughts**
+Trying to code along. Got to a problem because the version of mongodb Beau used is older.
+
+**Link(s) to work**
+
+### Day 88: December 12, 2017
+**Today's Progress**:
+1.[fCC video] Watched Build a Node.js API (30mins)
+
+**Thoughts**
+The fCC video by Beau was very interesting and well explained. I need to follow the tutorial coding in parallel.
+
+**Link(s) to work**
+1.[Build a Node.js API - tutorial](https://www.youtube.com/watch?v=fsCjFHuMXj0)
 
 ### Day 87: December 11, 2017
 **Today's Progress**:
