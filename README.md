@@ -2,6 +2,18 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 004: January 18, 2018
+**Today's Progress**:
+1. [Portfolio] Set up of folders
+2. [WebDevBootcamp] Refresh HTML knowledge
+
+**Thoughts**
+- [Portfolio] Starting setting up the folder structure and the files with some html and styling. I will go with bootstrap to quicken the development process
+- [WebDevBootcamp] Started at 317 (Basic tags) stopped at 435 (Form exercise)
+
+**Link(s) to work**
+1. [Geckos-36 repo](https://github.com/chingu-voyage3/geckos-26)
+
 ### Day 003: January 17, 2018
 **Today's Progress**:
 1. [geckos-26] Finished CRUD routes
