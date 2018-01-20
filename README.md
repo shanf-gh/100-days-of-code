@@ -2,6 +2,16 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 005: January 19, 2018
+**Today's Progress**:
+1. [WebDevBootcamp] Started Intro to CSS (Refresh)
+
+**Thoughts**
+- [WebDevBootcamp] Finished 435 (Form exercise) to 547 (Specify and the cascade)
+
+**Link(s) to work**
+No links today!
+
 ### Day 004: January 18, 2018
 **Today's Progress**:
 1. [Portfolio] Set up of folders
