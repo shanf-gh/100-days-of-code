@@ -2,6 +2,16 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 006: January 20, 2018
+**Today's Progress**:
+1. [WebDevBootcamp] Started Bootstrap
+
+**Thoughts**
+- [WebDevBootcamp] Finished 547 (Specify and the cascade) 771 (Forms and inputs)
+
+**Link(s) to work**
+No links today!
+
 ### Day 005: January 19, 2018
 **Today's Progress**:
 1. [WebDevBootcamp] Started Intro to CSS (Refresh)
