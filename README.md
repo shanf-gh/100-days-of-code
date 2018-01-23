@@ -2,6 +2,17 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 008: January 22, 2018
+**Today's Progress**:
+1. [Portfolio] Worked on portfolio's
+2. [fCC] Helped campers on gitter and fCC's forum
+
+**Thoughts**
+- [Portfolio] I had some trouble with the different navbars and how they should be nested. Managed to get a basic navbar with all the elements I wanted and responsiveness thanks to bootstrap 4.
+
+**Link(s) to work**
+1. [Portfolio](https://github.com/X140hu4/FCC/tree/master/1.%20Portfolio/Ver_2018_01)
+
 ### Day 007: January 21, 2018
 **Today's Progress**:
 1. [WebDevBootcamp] Finished Bootstrap
