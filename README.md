@@ -2,6 +2,17 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 009: January 23, 2018
+**Today's Progress**:
+1. [Portfolio] Worked on portfolio's sections
+
+**Thoughts**
+- [Portfolio] Made a hero section, populated and styled it. Found a trick for the internal link from navbar to section of the page. The problem was that when clicking on "My work", the page would go below the Portfolio header. The trick I found and was satisfied with was to have a `<a></a>` tag with a class of anchor with certain properties, including an negative vertical offset.
+Added the about section, work in progress. I would need to add the skills section too at some point but I had some issues with the logos having different sizes... I think I would need to resize them first for the screen size and file size so that they don't use too much data on load.
+
+**Link(s) to work**
+1. [Portfolio](https://github.com/X140hu4/FCC/tree/master/1.%20Portfolio/Ver_2018_01)
+
 ### Day 008: January 22, 2018
 **Today's Progress**:
 1. [Portfolio] Worked on portfolio's
