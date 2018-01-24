@@ -2,6 +2,19 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 010: January 24, 2018
+**Today's Progress**:
+1. [Portfolio] Finished first version
+
+**Thoughts**
+- [Portfolio] Finished a first version of the portfolio in English. The contact form is missing its functionality but I couldn't make it work to make a post request. 
+- Added color on hover of logos
+- Added skills section. I used font awesome 5 as it had icons instead of fa4
+- Added actual portfolio content
+
+**Link(s) to work**
+1. [Portfolio](https://github.com/X140hu4/X140hu4.github.io)
+
 ### Day 009: January 23, 2018
 **Today's Progress**:
 1. [Portfolio] Worked on portfolio's sections
