@@ -2,6 +2,18 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 011: January 25, 2018
+**Today's Progress**:
+1. [fCC] Made the design for the JS Calculator
+
+**Thoughts**
+- [fCC] Started the JS calculator project. 
+- Started trying with flexbox but it was hard to spread the divs of the input panel equally. [Flexbox free course](https://scrimba.com/g/gflexbox)
+- Used CSS grid to space the different elements, in particular the input panel. [Grid free course](https://scrimba.com/c/cbVn4t4)
+
+**Link(s) to work**
+1. [fCC JS Calculator](https://codepen.io/X140hu4/pen/goNxpa?editors=0100)
+
 ### Day 010: January 24, 2018
 **Today's Progress**:
 1. [Portfolio] Finished first version
