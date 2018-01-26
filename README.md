@@ -2,6 +2,24 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 012: January 26, 2018
+**Today's Progress**:
+1. [fCC] Main logics of JS Calculator
+
+**Thoughts**
+- [fCC] Wrote the main logics of the JS calculator 
+- Addition, substraction, multiplication and division of integer and floats in two cases: showing result when clicking '=' or '+', '-', 'x', '/'.
+- Hiding/showing the screen when clicking on ON/C
+- handling Square root (no follow up operations yet)
+To do:
+- Memory management (MRC, M-, M+)
+- Handling Percentage 
+- Handling CE
+- Finish styling of button board
+
+**Link(s) to work**
+1. [fCC JS Calculator](https://codepen.io/X140hu4/pen/goNxpa?editors=0100)
+
 ### Day 011: January 25, 2018
 **Today's Progress**:
 1. [fCC] Made the design for the JS Calculator
