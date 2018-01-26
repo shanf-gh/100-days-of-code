@@ -11,6 +11,7 @@ The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 - Addition, substraction, multiplication and division of integer and floats in two cases: showing result when clicking '=' or '+', '-', 'x', '/'.
 - Hiding/showing the screen when clicking on ON/C
 - handling Square root (no follow up operations yet)
+
 To do:
 - Memory management (MRC, M-, M+)
 - Handling Percentage 
