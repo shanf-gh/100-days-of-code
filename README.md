@@ -2,6 +2,24 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 013: January 27, 2018
+**Today's Progress**:
+1. [fCC] Finished JS Calculator
+2. [WebDevBootcamp] Started JS section
+
+**Thoughts**
+[fCC] 
+- Finished JS calculator challenge and wrote a post on fCC forums
+- Memory management (MRC, M-, M+)
+- Handling Percentage 
+- Handling CE
+- Finish styling of button board
+
+[WebDevBootcamp]
+- Finished section 8 to 10. Started Section 11 JS Array Iteration
+
+**Link(s) to work**
+
 ### Day 012: January 26, 2018
 **Today's Progress**:
 1. [fCC] Main logics of JS Calculator
