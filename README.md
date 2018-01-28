@@ -2,6 +2,7 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+
 ### Day 013: January 27, 2018
 **Today's Progress**:
 1. [fCC] Finished JS Calculator
@@ -19,6 +20,7 @@ The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 - Finished section 8 to 10. Started Section 11 JS Array Iteration
 
 **Link(s) to work**
+[fCC - Javascript Calculator](https://codepen.io/X140hu4/pen/QaXMbv)
 
 ### Day 012: January 26, 2018
 **Today's Progress**:
