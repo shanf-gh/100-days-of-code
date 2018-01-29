@@ -2,6 +2,16 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 015: January 29, 2018
+**Today's Progress**:
+1. [Portfolio] Tested website with w3C markup validation and Google speed test
+
+**Thoughts**
+There are improvements to make with the image sizes. They load fast enough but they could take less space in memory.
+
+**Link(s) to work**
+No link!
+
 ### Day 014: January 28, 2018
 **Today's Progress**:
 1. [fCC] Started Pomodoro project
