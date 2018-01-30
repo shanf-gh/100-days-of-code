@@ -2,6 +2,16 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 016: January 30, 2018
+**Today's Progress**:
+1. [fCC] Pomodoro: Pause, continue and automatic switch
+
+**Thoughts**
+The problem of clearInterval was because of it being declared in the toggle function. I have to be careful of scopes. When designing the automatic switch function with recursion, the management of switch variables caused issues as one was reset at the begining of a new toggle call.
+
+**Link(s) to work**
+1. [fCC - Pomodoro codepen](https://codepen.io/X140hu4/pen/mXyMvg)
+
 ### Day 015: January 29, 2018
 **Today's Progress**:
 1. [Portfolio] Tested website with w3C markup validation and Google speed test
