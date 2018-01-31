@@ -2,6 +2,16 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 017: January 31, 2018
+**Today's Progress**:
+1. [fCC] Pomodoro: Design search, Wireframe, styling
+
+**Thoughts**
+The logics being well advanced, I decided to start making the UI. First, I opened all the website I had for design inspiration in my bookmarks. I found a few nice design and picked a few design concepts I liked. I am going with a landing view to define the settings then start the pomodoro. The pomodoro will then have a bar that will change color/fill with another color as time passes by. I started styling the landing page.s
+
+**Link(s) to work**
+1. [fCC - Pomodoro codepen](https://codepen.io/X140hu4/pen/mXyMvg?editors=1100)
+
 ### Day 016: January 30, 2018
 **Today's Progress**:
 1. [fCC] Pomodoro: Pause, continue and automatic switch
