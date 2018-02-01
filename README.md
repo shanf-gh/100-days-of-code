@@ -2,12 +2,23 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 018: February 01, 2018
+**Today's Progress**:
+1. [fCC] Pomodoro: Continue designing
+2. [Codewars] Completed 6 kyu Kata "Perfect Square"
+
+**Thoughts**
+Getting a better idea of how to use flexbox and grid to style effectively the different elements without heavily relying on position relative, margins and paddings. However I don't take into account capabilities for responsiveness, I would like to get a good working grasp of positioning properties before pursuing responsiveness with these techniques.
+
+**Link(s) to work**
+1. [fCC - Pomodoro codepen](https://codepen.io/X140hu4/pen/mXyMvg?editors=1100)
+
 ### Day 017: January 31, 2018
 **Today's Progress**:
 1. [fCC] Pomodoro: Design search, Wireframe, styling
 
 **Thoughts**
-The logics being well advanced, I decided to start making the UI. First, I opened all the website I had for design inspiration in my bookmarks. I found a few nice design and picked a few design concepts I liked. I am going with a landing view to define the settings then start the pomodoro. The pomodoro will then have a bar that will change color/fill with another color as time passes by. I started styling the landing page.s
+The logics being well advanced, I decided to start making the UI. First, I opened all the website I had for design inspiration in my bookmarks. I found a few nice design and picked a few design concepts I liked. I am going with a landing view to define the settings then start the pomodoro. The pomodoro will then have a bar that will change color/fill with another color as time passes by. I started styling the landing page.
 
 **Link(s) to work**
 1. [fCC - Pomodoro codepen](https://codepen.io/X140hu4/pen/mXyMvg?editors=1100)
