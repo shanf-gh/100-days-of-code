@@ -2,6 +2,19 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 020: February 03, 2018
+**Today's Progress**:
+1. [fCC] Pomodoro: Continue designing
+
+**Thoughts**
+Worked a bit in the morning and in the afternoon on the design of the pomodoro clock.
+- Styled the setting pane with CSS grid. 
+- Added a play button on the right side.
+- Figured out a way to have a filler that can be manipulated to show the passage of time using a linear-gradient.
+
+**Link(s) to work**
+1. [fCC - Pomodoro codepen](https://codepen.io/X140hu4/pen/mXyMvg?editors=1100)
+
 ### Day 019: February 02, 2018
 **Today's Progress**:
 1. [fCC] Pomodoro: Continue designing
