@@ -2,6 +2,17 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 019: February 02, 2018
+**Today's Progress**:
+1. [fCC] Pomodoro: Continue designing
+
+**Thoughts**
+Had an afternoon shift at work and didn't have the mental energy to do much. Spent one pomodoro on styling the left side of the timer-container.
+
+**Link(s) to work**
+1. [fCC - Pomodoro codepen](https://codepen.io/X140hu4/pen/mXyMvg?editors=1100)
+
+
 ### Day 018: February 01, 2018
 **Today's Progress**:
 1. [fCC] Pomodoro: Continue designing
