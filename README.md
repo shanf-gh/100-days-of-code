@@ -2,6 +2,21 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 021: February 04, 2018
+**Today's Progress**:
+1. [fCC] Pomodoro: Finished most of the design
+
+**Thoughts**
+Had kanji kentei test at 1:30 and finished at 2:40. Went for macdonalds before going to the Brooklyn coffee to work on the pomodoro project.
+Worked 5 pomodoros on:
+- Refactoring the increaseValue and decraseValue into a unique changeValue function 
+- Worked on the progress background in the timer pane. Originally tried with linear-gradient but gradient wouldn't provide a clear demarcation of progress. 
+- Used a parent element for the progress bar. Changing the width percentage to show the progress. It makes the progress function also simplier.
+- Decided not to use rounded corners as it was hard to manage with the progress bar parent element. The border-radius would be relative to the width of the element, the width starting at 0 and enlarging with time, the borders would overflow the box's borders. Having right angles makes things easier to manage.
+
+**Link(s) to work**
+1. [fCC - Pomodoro codepen](https://codepen.io/X140hu4/pen/mXyMvg?editors=1100)
+
 ### Day 020: February 03, 2018
 **Today's Progress**:
 1. [fCC] Pomodoro: Continue designing
