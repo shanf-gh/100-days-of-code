@@ -2,6 +2,18 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 022: February 05, 2018
+**Today's Progress**:
+1. [fCC] Pomodoro: Finetuning javascript logics
+
+**Thoughts**
+First day with evening shift at Alex&resorts. I need to get up earlier to be able to do more coding and reading.
+- Worked on nested conditionals to get correct length value (break, break lg or session). Started working on logics for the maxtime value. 
+- Changed color of progress bar. Bug with val and width when finishing a session. 
+
+**Link(s) to work**
+1. [fCC - Pomodoro codepen](https://codepen.io/X140hu4/pen/mXyMvg?editors=1100)
+
 ### Day 021: February 04, 2018
 **Today's Progress**:
 1. [fCC] Pomodoro: Finished most of the design
