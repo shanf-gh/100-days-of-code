@@ -2,6 +2,24 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 023: February 06, 2018
+**Today's Progress**:
+1. [fCC] Pomodoro: Finished project
+
+**Thoughts**
+- Nested conditionals to get correct length value (break, break lg or session). 
+- Logics for the maxtime value from which is determined the width of the progress bar.
+- The code to change the color of the progress bar induced a Bug with val and width when finishing a session.
+- Solved the bug. The timerVal kept the previous value because it was outside the scope. 
+- Implemented toggleDisplay function (save a few lines and a lot of characters)
+- Corrected the timer clock that was not at the bottom of the box (reason: scope of the flexbox)
+- Reset logics and styled UI element
+- Styled footer.
+- CSS cleanup and comment
+
+**Link(s) to work**
+1. [fCC - Pomodoro codepen](https://codepen.io/X140hu4/pen/mXyMvg?editors=0100)
+
 ### Day 022: February 05, 2018
 **Today's Progress**:
 1. [fCC] Pomodoro: Finetuning javascript logics
