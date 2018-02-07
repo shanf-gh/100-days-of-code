@@ -2,6 +2,21 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 024: February 07, 2018
+**Today's Progress**:
+1. [fCC] Tic Tac Toe: Started project
+
+**Thoughts**
+- Set up folder and files. Initial design and list of todo
+- Board structure is Table with 3 table rows containing 3 td elements. Gave different id to each td and added onclick handling event. Coded handleClick to show cross or circle icon from fontawesome based on turn (turnCross boolean).
+- Working on the checkBoard for winning conditions. 
+- Finished checkBoard for winning conditions. Started reading on minimax algorithm for the computer player. 
+- Reading 'Tic Tac Toe Understanding the minmax algorithm'. Working out the pseudo code and thinking about how to implement it in JS.
+- Setting up initial state for testing minmax implementation. Set up display board, had problems with the array not being correct. Started with a dynamic implementation but it really does not matter so will have a hardcoded array instead.
+
+**Link(s) to work**
+1. [fCC - Tic Tac Toe github ](https://github.com/X140hu4/FCC/tree/master/8.%20Tic%20Tac%20Toe)
+
 ### Day 023: February 06, 2018
 **Today's Progress**:
 1. [fCC] Pomodoro: Finished project
