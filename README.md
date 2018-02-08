@@ -2,6 +2,23 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 025: February 08, 2018
+**Today's Progress**:
+1. [fCC] Tic Tac Toe: Working on AI with minimax algorithm
+
+**Thoughts**
+- Defined a test boardStatus. Started implementing minmax. Trouble passing winstate. 
+- Variable scoping is making things difficult to implement the different functions
+- Working on the simulation of boards with local variables.
+- Continuing working on simulation...
+- Finished implementing possibleGame generation. Working on scoring.
+- Continuing struggling with scoring
+
+
+**Link(s) to work**
+1. [fCC - Tic Tac Toe github](https://github.com/X140hu4/FCC/tree/master/8.%20Tic%20Tac%20Toe)
+
+
 ### Day 024: February 07, 2018
 **Today's Progress**:
 1. [fCC] Tic Tac Toe: Started project
@@ -15,7 +32,7 @@ The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 - Setting up initial state for testing minmax implementation. Set up display board, had problems with the array not being correct. Started with a dynamic implementation but it really does not matter so will have a hardcoded array instead.
 
 **Link(s) to work**
-1. [fCC - Tic Tac Toe github ](https://github.com/X140hu4/FCC/tree/master/8.%20Tic%20Tac%20Toe)
+1. [fCC - Tic Tac Toe github](https://github.com/X140hu4/FCC/tree/master/8.%20Tic%20Tac%20Toe)
 
 ### Day 023: February 06, 2018
 **Today's Progress**:
