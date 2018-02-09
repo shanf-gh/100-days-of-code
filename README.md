@@ -7,13 +7,29 @@ The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 1. [fCC] Tic Tac Toe: Working on AI with minimax algorithm
 
 **Thoughts**
+The computer function was returning undefined because there was no return from the function. The function was called recursively.
+The function seems to work but the final choice is still not correct. I would have to work on that.
+
+Pomodoro notes:
+- Working on minmax
+- Needed to return a value to push on scores... working on minmax return value
+- Working on minmax core calculation.
+- Worked on the depth caculation to give the correct answer.
+
+**Link(s) to work**
+1. [fCC - Tic Tac Toe github](https://github.com/X140hu4/FCC/tree/master/8.%20Tic%20Tac%20Toe)
+
+### Day 025: February 08, 2018
+**Today's Progress**:
+1. [fCC] Tic Tac Toe: Working on AI with minimax algorithm
+
+**Thoughts**
 - Defined a test boardStatus. Started implementing minmax. Trouble passing winstate. 
 - Variable scoping is making things difficult to implement the different functions
 - Working on the simulation of boards with local variables.
 - Continuing working on simulation...
 - Finished implementing possibleGame generation. Working on scoring.
 - Continuing struggling with scoring
-
 
 **Link(s) to work**
 1. [fCC - Tic Tac Toe github](https://github.com/X140hu4/FCC/tree/master/8.%20Tic%20Tac%20Toe)
