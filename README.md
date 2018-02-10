@@ -2,7 +2,19 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
-### Day 025: February 08, 2018
+### Day 027: February 10, 2018
+**Today's Progress**:
+1. [fCC] Tic Tac Toe: Finished implementing perfect AI. Started design of player choice.
+
+**Thoughts**
+Pomodoro notes:
+- Starting implementing computer player into game flow.
+- Computer is working! Did some title styling (choose a cursive font). Started adding html elements for player choice logics. 
+
+**Link(s) to work**
+1. [fCC - Tic Tac Toe github](https://github.com/X140hu4/FCC/tree/master/8.%20Tic%20Tac%20Toe)
+
+### Day 026: February 09, 2018
 **Today's Progress**:
 1. [fCC] Tic Tac Toe: Working on AI with minimax algorithm
 
