@@ -2,6 +2,23 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 028: February 11, 2018
+**Today's Progress**:
+1. [fCC] Tic Tac Toe: Finished project
+
+**Thoughts**
+
+
+Pomodoro notes:
+- Finished styling of settings. Finished coloring. Added pointer style. Started writing functions for selecting player.
+- Implemented pointer state change. Implemented settings player choice, display board and play.
+- Started refactoring and solving computer start bug
+- Refactored the play logics (dom and array manipulation from player and AI). Working on restart and togglepanes.
+- Abandonned togglePane function. Worked on a bug where player could play even though it was computer's turn. Using CSS on the game board 'pointer-event: none' to disable clicks.
+
+**Link(s) to work**
+1. [fCC - Tic Tac Toe github](https://github.com/X140hu4/FCC/tree/master/8.%20Tic%20Tac%20Toe)
+
 ### Day 027: February 10, 2018
 **Today's Progress**:
 1. [fCC] Tic Tac Toe: Finished implementing perfect AI. Started design of player choice.
