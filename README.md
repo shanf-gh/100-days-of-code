@@ -8,6 +8,7 @@ The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
 **Thoughts**
 Added new projects to the portfolio. Added a min-height to portfolo cards.
+Solved skills section overflow by setting height to min-height.
 
 **Link(s) to work**
 1. [fCC - Tic Tac Toe github](https://github.com/X140hu4/FCC/tree/master/8.%20Tic%20Tac%20Toe)
