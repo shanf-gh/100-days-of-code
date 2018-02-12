@@ -5,10 +5,14 @@ The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 ### Day 029: February 12, 2018
 **Today's Progress**:
 1. [Portfolio] Updated portfolio with new completed projects
+2. [Pomodoro clock] Solved issue pointed by feedbacks
 
 **Thoughts**
 Added new projects to the portfolio. Added a min-height to portfolo cards.
 Solved skills section overflow by setting height to min-height.
+Pomodoro project:
+- Solved issue with timer starting at 0 initially and counting down from -2.
+- Added text to show if the current timer is working or on break.
 
 **Link(s) to work**
 1. [fCC - Tic Tac Toe github](https://github.com/X140hu4/FCC/tree/master/8.%20Tic%20Tac%20Toe)
