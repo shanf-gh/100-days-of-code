@@ -2,6 +2,19 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 030: February 13, 2018
+**Today's Progress**:
+1. [Javascript Allongé] Read until Combinators and Function Decorators
+2. [You Don't Know JS] Read chapter 'this All Makes Sense Now!'
+3. [fCC - Simon Game] Working on the style of buttons
+
+**Thoughts**
+See progress' description
+
+
+**Link(s) to work**
+1. [fCC - Simon Game](https://github.com/X140hu4/FCC/tree/master/09.%20Simon%20Game)
+
 ### Day 029: February 12, 2018
 **Today's Progress**:
 1. [Portfolio] Updated portfolio with new completed projects
@@ -16,7 +29,6 @@ Pomodoro project:
 - Added text to show if the current timer is working or on break.
 Simon Game project:
 - I will need to push my CSS skills a bit further to do the game device
-
 
 **Link(s) to work**
 1. [fCC - Tic Tac Toe github](https://github.com/X140hu4/FCC/tree/master/8.%20Tic%20Tac%20Toe)
