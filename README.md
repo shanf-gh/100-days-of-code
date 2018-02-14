@@ -2,6 +2,31 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 031: February 14, 2018
+**Today's Progress**:
+1. [CSS] Reading on Naming conventions
+2. [30DaysOfJS] Lesson 1 - Drum Kit
+3. [fCC - Simon Game] Continue working on button style
+
+**Thoughts**
+CSS
+- Read about [BEM naming convention](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849). I think I will try using this first before trying other conventions such as OCSS, ACSS and SMACSS.
+Javascript 30
+- Learned about addEventListeners keydown and transitionend.
+fCC - Simon Game (pomodoro notes)
+- Succeeded using css grid to create and position buttons. Working on the central piece with the commands.
+- Research to style the center piece with ::before and ::after.
+- ::before element on button is not good because it would be a circle when adding space between buttons. Exploring ::before on #game-device. Issue with positioning and also for the content that will have to contain the controls
+-  Created a control div. In order for it to have a % of parent div as height/width the parent needed to be position: relative while the child is position:absolute. Working out the design of the buttons on paper.
+- Added onclick eventlistener and playsound function. Worked out the frame of the controls.
+
+
+**Link(s) to work**
+1. [fCC - Simon Game](https://github.com/X140hu4/FCC/tree/master/09.%20Simon%20Game)
+
+**Additional links**
+1. [Get BEM](http://getbem.com/introduction/)
+
 ### Day 030: February 13, 2018
 **Today's Progress**:
 1. [Javascript Allongé] Read until Combinators and Function Decorators
