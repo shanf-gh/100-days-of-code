@@ -2,11 +2,25 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 032: February 15, 2018
+**Today's Progress**:\
+1. [30DaysOfJS] Lesson 2 - JS and CSS Clock
+2. [fCC - Simon Game] Designing control board
+
+**Thoughts**
+Javascript 30
+- Learned about transform and transition
+fCC - Simon Game (pomodoro notes)
+- Working on controls. Designing power block (on/off)
+- Panel grid and position to be in middle of the controls div.
+
+**Link(s) to work**
+
 ### Day 031: February 14, 2018
 **Today's Progress**:
 1. [CSS] Reading on Naming conventions
 2. [30DaysOfJS] Lesson 1 - Drum Kit
-3. [fCC - Simon Game] Continue working on button style
+3. [fCC - Simon Game] Board outline and play sound function
 
 **Thoughts**
 CSS
