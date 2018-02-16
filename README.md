@@ -2,8 +2,25 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 033: February 16, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 3 - Playing with CSS Variable with JS
+2. [fCC - Simon Game] Designing control board
+
+**Thoughts**
+Javascript 30
+- Learned about CSS variables
+- Two new eventlisteners: 'change', 'mousemove'
+- Personalized 'data' attributes on HTML elements and JS manipulation
+fCC - Simon Game (pomodoro notes)
+- Designing row of buttons.
+- Finished styling buttons row. Completing styling of toggle start button to replicate to Game and Skill level controls 
+
+**Link(s) to work**
+1. [fCC - Simon Game](https://github.com/X140hu4/FCC/tree/master/09.%20Simon%20Game)
+
 ### Day 032: February 15, 2018
-**Today's Progress**:\
+**Today's Progress**:
 1. [30DaysOfJS] Lesson 2 - JS and CSS Clock
 2. [fCC - Simon Game] Designing control board
 
@@ -15,6 +32,9 @@ fCC - Simon Game (pomodoro notes)
 - Panel grid and position to be in middle of the controls div.
 
 **Link(s) to work**
+1. [fCC - Simon Game](https://github.com/X140hu4/FCC/tree/master/09.%20Simon%20Game)
+
+
 
 ### Day 031: February 14, 2018
 **Today's Progress**:
