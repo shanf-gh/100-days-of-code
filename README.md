@@ -2,6 +2,18 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 034: February 17, 2018
+**Today's Progress**:
+1. [fCC - Simon Game] Designing buttons
+
+**Thoughts**
+Not much time today as I have a work shift from 1PM to 12AM :(
+fCC - Simon Game
+- Finished a first design of the toggle buttons
+
+**Link(s) to work**
+1. [fCC - Simon Game](https://github.com/X140hu4/FCC/tree/master/09.%20Simon%20Game)
+
 ### Day 033: February 16, 2018
 **Today's Progress**:
 1. [30DaysOfJS] Lesson 3 - Playing with CSS Variable with JS
