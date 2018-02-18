@@ -2,6 +2,24 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 035: February 18, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 4 - Array Cardio Day 1
+2. [fCC - Simon Game] Designing control board
+
+**Thoughts**
+Javascript 30
+- Reviewing map, reduce, sort and filter
+fCC - Simon Game (pomodoro notes)
+- Working on row toggle buttons styling. 
+- Redesigning toggling buttons with css grid to make it more flexible than nit picking and aligning elements when toggling.
+- Wrote function changing the toggle button's grid-column-start.
+- Working on refactoring the toggle buttons. 
+- Restyling power toggle with grid and JS manipulation.
+
+**Link(s) to work**
+1. [fCC - Simon Game](https://github.com/X140hu4/FCC/tree/master/09.%20Simon%20Game)
+
 ### Day 034: February 17, 2018
 **Today's Progress**:
 1. [fCC - Simon Game] Designing buttons
