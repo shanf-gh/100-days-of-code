@@ -2,6 +2,26 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 036: February 19, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 5 - Flex Panels
+2. [fCC - Simon Game] Working on the logics
+
+**Thoughts**
+Javascript 30
+Learning about transform: translateY(xx%) to hide/show elements
+Use of JS object.classList.toggle(classname); to add/delete a class from an element
+fCC - Simon Game
+Learned that this.style.gridColumnStart gets only the inline value. Need to use the window.getComputerStyle(element).getPropertyValue('cssPropertyName'); to get the value defined from CSS.
+fCC - Simon Game (pomodoro notes)
+- Research on timeout for replaying the sequence. Applied to the playSound function and toggling the active class.
+- Writing computer sequence logics. Trouble replaying the sequence 
+- Starting writing playing logics
+- Set column start of toggles and get the value from the CSS (via computed style rather than element inline style) 
+
+**Link(s) to work**
+1. [fCC - Simon Game](https://github.com/X140hu4/FCC/tree/master/09.%20Simon%20Game)
+
 ### Day 035: February 18, 2018
 **Today's Progress**:
 1. [30DaysOfJS] Lesson 4 - Array Cardio Day 1
