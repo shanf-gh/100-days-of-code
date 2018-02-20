@@ -2,6 +2,24 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 037: February 20, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 6 - Ajax Typeahead
+2. [fCC - Simon Game] Working on the logics
+
+**Thoughts**
+Javascript 30
+- Learned about fetch and promises handling
+- Seen spread operator's application
+- Use of regex to match a string
+- 'change' and 'keyup' event listener value
+fCC - Simon Game (pomodoro notes)
+- Made the computerSequence with the repeat key and add new key work.
+- Refactored the playsound functions to avoid duplicates. Pushing keys into the player and compute arrays. Next check if the sequence is correct.
+
+**Link(s) to work**
+1. [fCC - Simon Game](https://github.com/X140hu4/FCC/tree/master/09.%20Simon%20Game)
+
 ### Day 036: February 19, 2018
 **Today's Progress**:
 1. [30DaysOfJS] Lesson 5 - Flex Panels
