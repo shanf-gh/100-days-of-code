@@ -2,6 +2,24 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 038: February 21, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 7 - Array Cardio Day 2
+2. [fCC - Simon Game] Working on the logics
+
+**Thoughts**
+Javascript 30
+- Reviewed array methods: some, every, find, findIndex.
+fCC - Simon Game (pomodoro notes)
+- Working on the game logics.
+- Continuing working on game logic. First sequence works fine, on second round there seems to be some kind of loop.
+- Sequence error handling. Working on the repeat after making an error. Encountered an issue where the sequence wouldn't add any additional play. 
+- Solved the issue with the sequence being replayed. When replaying the sequence, the playerSequence needed to be reset to 0.
+
+
+**Link(s) to work**
+1. [fCC - Simon Game](https://github.com/X140hu4/FCC/tree/master/09.%20Simon%20Game)
+
 ### Day 037: February 20, 2018
 **Today's Progress**:
 1. [30DaysOfJS] Lesson 6 - Ajax Typeahead
