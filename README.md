@@ -2,6 +2,21 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 040: February 23, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 9 - 14 Must Know Dev Tools Tricks
+2. [fCC - Simon Game] Working on control logics
+
+**Thoughts**
+Javascript 30
+- Learned about various console commands: interpolating, styling, warning, error, info, testing, viewing DOM elements, grouping, counting and timing.
+fCC - Simon Game (pomodoro notes)
+- Working on the conditions relative to the buttons positions
+- Reset computer sequence when reclicking on start. Game does not continue when gameStart is false. Started working on the 'last' button. The game continues after repeating the sequence. Looking for the variable to change
+
+**Link(s) to work**
+1. [fCC - Simon Game](https://github.com/X140hu4/FCC/tree/master/09.%20Simon%20Game)
+
 ### Day 039: February 22, 2018
 **Today's Progress**:
 1. [30DaysOfJS] Lesson 8 - Fun with HTML5 Canvas
