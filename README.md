@@ -2,6 +2,37 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 043: February 26, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 11 - HTML5 Video Player
+2. [fCC - Simon Game] Working on game logics
+
+**Thoughts**
+Javascript 30
+fCC - Simon Game
+
+**Link(s) to work**
+1. [fCC - Simon Game](https://github.com/X140hu4/FCC/tree/master/09.%20Simon%20Game)
+
+### Day 042: February 25, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 11 - HTML5 Video Player
+2. [fCC - Simon Game] Working on game logics & Design
+
+**Thoughts**
+Javascript 30
+- Seen a lot about animation events. 
+- There is no play property but there is a pause property that can be monitored
+fCC - Simon Game
+- Added increase speed portion. Working on the finish game portion. 
+- Taken out game type toggle. Starting to replace it with a screen to display information
+- Final styling of control board with title and screen.
+- Added display function modifying the display value. Added display current sequence length
+- Issues on oscillating on error. 
+
+**Link(s) to work**
+1. [fCC - Simon Game](https://github.com/X140hu4/FCC/tree/master/09.%20Simon%20Game)
+
 ### Day 041: February 24, 2018
 **Today's Progress**:
 1. [30DaysOfJS] Lesson 10 - Hold Shift to Check Multiple Checkboxes
