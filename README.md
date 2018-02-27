@@ -2,14 +2,34 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
-### Day 043: February 26, 2018
+### Day 044: February 27, 2018
 **Today's Progress**:
-1. [30DaysOfJS] Lesson 11 - HTML5 Video Player
-2. [fCC - Simon Game] Working on game logics
+1. [30DaysOfJS] Lesson 13 - Slide In on Scroll
+2. [fCC - Simon Game] Working on buttons functionalities & debug
 
 **Thoughts**
 Javascript 30
+- Learned about window properties (scrollY, innerHeight)
+- Learned about the 'scroll' event listener
 fCC - Simon Game
+- Reset display on second click to START button. Working on longest button function.
+- Worked on bug caused by the off/on button
+- Finished strict mode and solved a bug on last button 
+
+
+**Link(s) to work**
+1. [fCC - Simon Game](https://github.com/X140hu4/FCC/tree/master/09.%20Simon%20Game)
+
+### Day 043: February 26, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 12 - Key Sequence Detection (KONAMI CODE)
+2. [fCC - Simon Game] Blinking function on error
+
+**Thoughts**
+Javascript 30
+- Learned more about the keyup event listener
+fCC - Simon Game
+- Finished error display blinking (display function)
 
 **Link(s) to work**
 1. [fCC - Simon Game](https://github.com/X140hu4/FCC/tree/master/09.%20Simon%20Game)
