@@ -2,6 +2,40 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 046: March 01, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 15 - LocalStorage and Event Delegation
+2. [The Web Developer Bootcamp] Going through the Javascript section
+3. [You Don't Know JS] Finished reading and taking notes on YDKJS3-3: Objects
+
+**Thoughts**
+Javascript 30
+- Learned about localStorage and event delegation 
+The Web Developer Bootcamp
+- Functions, arrays and objects
+- Started DOM section
+You Don't Know JS
+- Notes about enumerability of object properties
+- Notes about iterators in arrays and how they can be custom defined on objects
+
+**Link(s) to work**
+No Links!
+
+### Day 045: February 28, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 14 - Object and Arrays - Reference VS Copy
+2. [fCC - Simon Game] Finished project and claimed FE certificate
+
+**Thoughts**
+Javascript 30
+- Reviewed copying object and array reference/copy
+fCC - Simon Game
+- Finished strict mode and solved a bug on last button 
+- Finished all logics. Did some quick testing and seems to work properly.
+
+**Link(s) to work**
+1. [fCC - Simon Game](https://github.com/X140hu4/FCC/tree/master/09.%20Simon%20Game)
+
 ### Day 044: February 27, 2018
 **Today's Progress**:
 1. [30DaysOfJS] Lesson 13 - Slide In on Scroll
@@ -15,7 +49,6 @@ fCC - Simon Game
 - Reset display on second click to START button. Working on longest button function.
 - Worked on bug caused by the off/on button
 - Finished strict mode and solved a bug on last button 
-
 
 **Link(s) to work**
 1. [fCC - Simon Game](https://github.com/X140hu4/FCC/tree/master/09.%20Simon%20Game)
