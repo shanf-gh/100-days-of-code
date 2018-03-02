@@ -5,10 +5,17 @@ The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 ### Day 047: March 02, 2018
 **Today's Progress**:
 1. [30DaysOfJS] Lesson 16 - CSS Text Shadow Mouse Move Effect
+3. [You Don't Know JS] Finished reading and taking notes on YDKJS3-4: Mixing (Up) "Class" Objects
 
 **Thoughts**
 Javascript 30
 - Learn about ES6 destructuring. Use of offset elements from event and HTML elements.
+You Don't Know JS
+- Notes about what class mean in other languages and in JS
+- Notes about concepts of inheritance, polyphormism and mixins
+
+**Link(s) to work**
+No Links!
 
 ### Day 046: March 01, 2018
 **Today's Progress**:
