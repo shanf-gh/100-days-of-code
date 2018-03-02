@@ -2,6 +2,14 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 047: March 02, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 16 - CSS Text Shadow Mouse Move Effect
+
+**Thoughts**
+Javascript 30
+- Learn about ES6 destructuring. Use of offset elements from event and HTML elements.
+
 ### Day 046: March 01, 2018
 **Today's Progress**:
 1. [30DaysOfJS] Lesson 15 - LocalStorage and Event Delegation
