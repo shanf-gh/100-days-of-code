@@ -2,6 +2,24 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+
+### Day 048: March 02, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 17 - Sorting Band Names without articles
+3. [You Don't Know JS] Reading 3-5: Prototypes
+
+**Thoughts**
+Javascript 30
+- Learn about ES6 destructuring. Use of offset elements from event and HTML elements.
+You Don't Know JS
+- What is the prototype chain and its relation to getter and setters
+- How properties are retrieved and created on an object
+- Difference between class inheritance and object delegation
+
+**Link(s) to work**
+No Links!
+
+
 ### Day 047: March 02, 2018
 **Today's Progress**:
 1. [30DaysOfJS] Lesson 16 - CSS Text Shadow Mouse Move Effect
