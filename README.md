@@ -2,11 +2,27 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 049: March 04, 2018
+**Today's Progress**:
+1. [CodeWars] Rectangle into squares 
+2. [30DaysOfJS] Lesson 18 - Tally String Times with Reduce
+3. [You Don't Know JS] Reading 3-5: Prototypes
 
-### Day 048: March 02, 2018
+**Thoughts**
+Javascript 30
+- Seen an example of deconstructuring assignment `const [mins, secs] = timeCode.split(':').map(parseFloat);`
+- Application of function call as a method callback `map(parseFloat)`
+You Don't Know JS
+- How new objects are created from functions
+- What constructors are and how they work in JS
+
+**Link(s) to work**
+1. [Rectangle into squares](https://www.codewars.com/kata/55466989aeecab5aac00003e/solutions/javascript)
+
+### Day 048: March 03, 2018
 **Today's Progress**:
 1. [30DaysOfJS] Lesson 17 - Sorting Band Names without articles
-3. [You Don't Know JS] Reading 3-5: Prototypes
+2. [You Don't Know JS] Reading 3-5: Prototypes
 
 **Thoughts**
 Javascript 30
@@ -19,11 +35,10 @@ You Don't Know JS
 **Link(s) to work**
 No Links!
 
-
 ### Day 047: March 02, 2018
 **Today's Progress**:
 1. [30DaysOfJS] Lesson 16 - CSS Text Shadow Mouse Move Effect
-3. [You Don't Know JS] Finished reading and taking notes on YDKJS3-4: Mixing (Up) "Class" Objects
+2. [You Don't Know JS] Finished reading and taking notes on YDKJS3-4: Mixing (Up) "Class" Objects
 
 **Thoughts**
 Javascript 30
