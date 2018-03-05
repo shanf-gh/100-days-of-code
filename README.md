@@ -2,6 +2,23 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 050: March 05, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 19 - Unreal Webcam Fun
+2. [You Don't Know JS] Finished reading 3-5: Prototypes
+
+**Thoughts**
+Javascript 30
+- Learned about getting data from webcam (mediadevice)
+- Learned about how to manipulate these data
+You Don't Know JS
+- Prototypal inheritance
+- Inspecting class relationship
+- Use of create() to create links between objects
+
+**Link(s) to work**
+No Link!
+
 ### Day 049: March 04, 2018
 **Today's Progress**:
 1. [CodeWars] Rectangle into squares 
