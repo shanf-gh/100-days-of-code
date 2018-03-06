@@ -2,6 +2,21 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 051: March 06, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 20 - Native Speech Recognition
+2. [You Don't Know JS] Finished reading 3-6: Behavior Delegation
+
+**Thoughts**
+Javascript 30
+- Learned that Chrome and Firefox have speech recognition functions
+- results event
+You Don't Know JS
+- Read about delegation oriented design implemented both in class-like and OLOO methods
+
+**Link(s) to work**
+No Link!
+
 ### Day 050: March 05, 2018
 **Today's Progress**:
 1. [30DaysOfJS] Lesson 19 - Unreal Webcam Fun
