@@ -2,6 +2,24 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 052: March 06, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 20 Geolocation speedometer and compass and 21 Follow Along links
+2. [You Don't Know JS] Finished reading 3-6: Behavior Delegation and 4-1: Types
+3. [The Web Developer Bootcamp] Going through the Javascript section (5-163)
+
+**Thoughts**
+Javascript 30
+- Learned that the navigator also can get direction and speed data from the device
+- Difference between geolocation.watchPosition and getPosition
+- Learn about how to get an element's size and coordinates on a page (`.getBoundingClientRect()`);
+- Learn about the need to offset the position of an element when a page is scrolled (`window.scrollY` and `window.scrollX`)
+You Don't Know JS
+- Class design or OLLO, make your choice
+
+**Link(s) to work**
+No Link!
+
 ### Day 051: March 06, 2018
 **Today's Progress**:
 1. [30DaysOfJS] Lesson 20 - Native Speech Recognition
