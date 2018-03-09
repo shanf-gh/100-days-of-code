@@ -2,9 +2,40 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
-### Day 052: March 06, 2018
+### Day 054: March 09, 2018
 **Today's Progress**:
-1. [30DaysOfJS] Lesson 20 Geolocation speedometer and compass and 21 Follow Along links
+1. [30DaysOfJS] Lesson 24 - Sticky Nav
+2. [You Don't Know JS] Finished reading 4-3: Natives, started reading 4-4 Coercion
+3. [freeCodeCamp] Completed exercise 8/13 of learnYouNode
+
+**Thoughts**
+Javascript 30
+- Learned how to do a sticky nav that sticks based on the scroll value
+You Don't Know JS   
+- Finished reading 4-3: Natives. They wrap values in their relative type to access methods
+
+**Link(s) to work**
+No Link!
+
+### Day 053: March 08, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 23 - Speech Synthesis
+2. [You Don't Know JS] Finished read 4-1: types, 4-2: values and started 4-3: Natives
+
+**Thoughts**
+Javascript 30
+- Learned about speechSynthesis API using SpeechSynthesisUtterance().
+- Learned that there are voices inlcuded in Windows. Apple has more.
+You Don't Know JS
+- Reviewed the different types, the values they can hold including special values
+- Started reading about Natives, which are built-in functions with similar name as the types that wrap values
+
+**Link(s) to work**
+No Link!
+
+### Day 052: March 07, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 21 Geolocation speedometer and compass and 22 Follow Along links
 2. [You Don't Know JS] Finished reading 3-6: Behavior Delegation and 4-1: Types
 3. [The Web Developer Bootcamp] Going through the Javascript section (5-163)
 
