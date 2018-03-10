@@ -2,10 +2,28 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 055: March 10, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 25 - Event Capture, Propagation, Bubbling and Once
+2. [You Don't Know JS] Reading 4-4 Coercion
+3. [freeCodeCamp] Completed exercise 9/13 of learnYouNode
+
+**Thoughts**
+Javascript 30
+- Learned about event propagation and how to stop it (use e.stopPropagation in callback)
+- Learned about 3rd optional argument of addEventListener. Use an object that can have property to define capturing direction (true: top-bottom, false(default): bubbling up) and run once (once: true)
+You Don't Know JS
+- Learn about the different ways coercion happens between types
+- Learned that && and || are really doing. They evaluate and coerce the values
+- Learned why console.log("string" + arr); returned the array as a string because it is explicitly coerced by the string.
+
+**Link(s) to work**
+No Link!
+
 ### Day 054: March 09, 2018
 **Today's Progress**:
 1. [30DaysOfJS] Lesson 24 - Sticky Nav
-2. [You Don't Know JS] Finished reading 4-3: Natives, started reading 4-4 Coercion
+2. [You Don't Know JS] Finished reading 4-3: Natives, s tarted reading 4-4 Coercion
 3. [freeCodeCamp] Completed exercise 8/13 of learnYouNode
 
 **Thoughts**
