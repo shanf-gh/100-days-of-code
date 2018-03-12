@@ -2,6 +2,54 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 056: March 12, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 26 - Stripe Follow Along Dropdown and 27 - Click and Drag to Scroll
+2. [You Don't Know JS] Finished reading 4-4 Coercion and 4-5 Grammar. Started reading 5-1 Asynchrony Now & Later
+3. [freeCodeCamp] Completed exercise 10/13 - Time Server of learnYouNode
+
+**Thoughts**
+Javascript 30
+- Using eventListener mouseenter and mouseleave to position and size a white background for navigational menu
+- Use elements position properties to determine current position and offset for creating a slideshow effect
+You Don't Know JS
+- Learned about different type of coercion
+- Learned about JS syntax and its quirks, how coercion behave in regard to operator priority
+fCC - LearnYouNode
+- Learned that node has a net module to provide basic networking functions
+
+**Link(s) to work**
+No Link!
+
+### Day 056: March 11, 2018
+**Today's Progress**:
+1. [You Don't Know JS] Reading 4-4 Coercion
+
+**Thoughts**
+You Don't Know JS
+- Edge cases of coercion
+
+**Link(s) to work**
+No Link!
+
+### Day 055: March 10, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 25 - Event Capture, Propagation, Bubbling and Once
+2. [You Don't Know JS] Reading 4-4 Coercion
+3. [freeCodeCamp] Completed exercise 9/13 of learnYouNode
+
+**Thoughts**
+Javascript 30
+- Learned about event propagation and how to stop it (use e.stopPropagation in callback)
+- Learned about 3rd optional argument of addEventListener. Use an object that can have property to define capturing direction (true: top-bottom, false(default): bubbling up) and run once (once: true)
+You Don't Know JS
+- Learn about the different ways coercion happens between types
+- Learned that && and || are really doing. They evaluate and coerce the values
+- Learned why console.log("string" + arr); returned the array as a string because it is explicitly coerced by the string.
+
+**Link(s) to work**
+No Link!
+
 ### Day 055: March 10, 2018
 **Today's Progress**:
 1. [30DaysOfJS] Lesson 25 - Event Capture, Propagation, Bubbling and Once
