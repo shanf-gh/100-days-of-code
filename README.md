@@ -11,7 +11,6 @@ The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 Javascript 30
 - Use relative positions with mousemove listener to change a video's playback speed
 
-
 **Link(s) to work**
 No Link!
 
