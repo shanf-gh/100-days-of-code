@@ -2,7 +2,21 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
-### Day 056: March 12, 2018
+### Day 059: March 13, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 28 - Video Speed Controller UI
+2. [The Web Developer Bootcamp] Going through the Color Game tutorial
+
+**Thoughts**
+Javascript 30
+- Use relative positions with mousemove listener to change a video's playback speed
+
+
+**Link(s) to work**
+No Link!
+
+
+### Day 058: March 12, 2018
 **Today's Progress**:
 1. [30DaysOfJS] Lesson 26 - Stripe Follow Along Dropdown and 27 - Click and Drag to Scroll
 2. [You Don't Know JS] Finished reading 4-4 Coercion and 4-5 Grammar. Started reading 5-1 Asynchrony Now & Later
@@ -21,7 +35,7 @@ fCC - LearnYouNode
 **Link(s) to work**
 No Link!
 
-### Day 056: March 11, 2018
+### Day 057: March 11, 2018
 **Today's Progress**:
 1. [You Don't Know JS] Reading 4-4 Coercion
 
@@ -32,7 +46,7 @@ You Don't Know JS
 **Link(s) to work**
 No Link!
 
-### Day 055: March 10, 2018
+### Day 056: March 10, 2018
 **Today's Progress**:
 1. [30DaysOfJS] Lesson 25 - Event Capture, Propagation, Bubbling and Once
 2. [You Don't Know JS] Reading 4-4 Coercion
