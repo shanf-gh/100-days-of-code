@@ -2,6 +2,21 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 060: March 14, 2018
+**Today's Progress**:
+1. [30DaysOfJS] Lesson 29 - Countdown Clock
+2. [freeCodeCamp] Completed exercise 11/13 - HTTP FILE SERVER
+2. [The Web Developer Bootcamp] Going through the jQuery chapter
+
+**Thoughts**
+Javascript 30
+- Use setInterval function and Date object to create a countdown
+freeCodeCamp
+- Learned how to make a rudimentary Node HTTP server
+
+**Link(s) to work**
+No Link!
+
 ### Day 059: March 13, 2018
 **Today's Progress**:
 1. [30DaysOfJS] Lesson 28 - Video Speed Controller UI
@@ -13,7 +28,6 @@ Javascript 30
 
 **Link(s) to work**
 No Link!
-
 
 ### Day 058: March 12, 2018
 **Today's Progress**:
