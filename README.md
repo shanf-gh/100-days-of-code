@@ -2,6 +2,20 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+
+### Day 062: March 16, 2018
+**Today's Progress**:
+1. [freeCodeCamp] Completed LearnYouNode
+2. [The Web Developer Bootcamp] Finished jQuery chapter, started on the todolist
+
+**Thoughts**
+LearnYouNode was very difficult, I googled some solutions but on the last one I was able to do it myself with the hints and the Node documentation.
+Web Developer Bootcamp
+- Having some nice progress on this. Going forward with the to do list example, I will try to do it by myself.
+
+**Link(s) to work**
+No Link!
+
 ### Day 061: March 15, 2018
 **Today's Progress**:
 1. [30DaysOfJS] Lesson 30 - Whack A Mole Gameter
@@ -17,7 +31,6 @@ Web Developer Bootcamp
 
 **Link(s) to work**
 No Link!
-
 
 ### Day 060: March 14, 2018
 **Today's Progress**:
