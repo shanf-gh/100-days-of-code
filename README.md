@@ -2,6 +2,22 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 063: March 17, 2018
+**Today's Progress**:
+1. [The Web Developer Bootcamp] Almost finished todo list. Styling pt2.
+2. [HackerRank] 30 Days Of Code - Completed 5 challenges in JS
+3. [You Don't Know JS] Reading 5-1 Asynchrony: Now & Later
+
+**Thoughts**
+Web Developer Bootcamp
+- Learned about the jQuery event.stopPropagation() method to prevent bubbling of event listener
+HackerRank
+- The interface needed some getting used to, but I did some easy challenges in this regard.
+You Don't Know JS
+- Learning about different ways to manage asynchronicity, using global variables to determine where data goes or what functions are fired.
+
+**Link(s) to work**
+No Link!
 
 ### Day 062: March 16, 2018
 **Today's Progress**:
