@@ -2,6 +2,35 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 065: March 19, 2018
+**Today's Progress**:
+1. [HackerRank] 30 Days Of Code - Completed 2 challenges in JS
+2. [CodeWars] Common Denominators 5kyu - WIP
+
+**Thoughts**
+HackerRank
+- Completed 2 challenges on class and inheritance, however there is no more JS challengeds so I had to stop :(
+CodeWars
+- I am currently 7 kyu, this 5kyu kata is giving me some problems for calculating the common denominator. Continue tomorrow.
+
+**Link(s) to work**
+[Code Wars - Common denominator](https://www.codewars.com/kata/54d7660d2daf68c619000d95/train/javascript)
+
+### Day 064: March 18, 2018
+**Today's Progress**:
+1. [The Web Developer Bootcamp] Finished Todolist, Patatap clone
+2. [HackerRank] 30 Days Of Code - Completed 6 challenges in JS
+
+**Thoughts**
+Web Developer Bootcamp
+- Learned that you can show a span by applying a style on hover on the parent and manipulating width in css. NO JS! amazing!
+HackerRank
+- Good warmup and review of algorithms
+- Next is 12 - Inheritance
+
+**Link(s) to work**
+No Link!
+
 ### Day 063: March 17, 2018
 **Today's Progress**:
 1. [The Web Developer Bootcamp] Almost finished todo list. Styling pt2.
