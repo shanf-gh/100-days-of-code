@@ -2,11 +2,26 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 066: March 20, 2018
+**Today's Progress**:
+1. [The Web Developer Bootcamp] Reviewing Express
+2. [CodeWars] Primes in numbers 5kyu - Completed
+
+**Thoughts**
+CodeWars
+- My solution has much more code than the top solution but is a tad faster.
+
+
+
+**Link(s) to work**
+No Link!
+
 ### Day 065: March 19, 2018
 **Today's Progress**:
 1. [HackerRank] 30 Days Of Code - Completed 2 challenges in JS
 2. [CodeWars] Common Denominators 5kyu - WIP
 3. [NodeJS] Reinstalled Node JS
+4. [The Web Developer Bootcamp] Reviewing the back-end stuff
 
 **Thoughts**
 HackerRank
