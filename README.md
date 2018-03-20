@@ -6,11 +6,16 @@ The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 **Today's Progress**:
 1. [The Web Developer Bootcamp] Reviewing Express
 2. [CodeWars] Primes in numbers 5kyu - Completed
+3. [You Don't Know JS] Read 5-2: Callbacks
 
 **Thoughts**
 CodeWars
 - My solution has much more code than the top solution but is a tad faster.
-
+YDKJS 5-2
+- Definitely will need to reread the chapter
+- Interesting read on async and sync using callbacks and how unreliable they can be
+- Avoid callback hell! even disguised in seperate smaller functions
+- Don't release Zalgo!
 
 
 **Link(s) to work**
