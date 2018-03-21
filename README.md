@@ -2,6 +2,17 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 067: March 21, 2018
+**Today's Progress**:
+1. [You Don't Know JS] Started reading 5-3: Promises
+
+**Thoughts**
+YDKJS
+- Changing my approach of writing the review only to adding notes along the way while reading the chapter
+
+**Link(s) to work**
+No Link!
+
 ### Day 066: March 20, 2018
 **Today's Progress**:
 1. [The Web Developer Bootcamp] Reviewing Express
@@ -16,7 +27,6 @@ YDKJS 5-2
 - Interesting read on async and sync using callbacks and how unreliable they can be
 - Avoid callback hell! even disguised in seperate smaller functions
 - Don't release Zalgo!
-
 
 **Link(s) to work**
 No Link!
