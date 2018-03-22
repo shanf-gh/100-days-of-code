@@ -2,9 +2,21 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 068: March 22, 2018
+**Today's Progress**:
+1. [You Don't Know JS] reading 5-3: Promises
+2. [The Web Developer Bootcamp] Reviewed APIs, YelpCamp basics, Databases
+
+**Thoughts**
+Taking a lots of notes while reviewing WDBC.
+
+**Link(s) to work**
+No Link!
+
 ### Day 067: March 21, 2018
 **Today's Progress**:
 1. [You Don't Know JS] Started reading 5-3: Promises
+2. [The Web Developer Bootcamp] Reviewed APIs, YelpCamp basics, Databases
 
 **Thoughts**
 YDKJS
