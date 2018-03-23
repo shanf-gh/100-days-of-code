@@ -2,6 +2,16 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 069: March 23, 2018
+**Today's Progress**:
+1. [You Don't Know JS] reading 5-3: Promises
+
+**Thoughts**
+Taking a lots of notes while reading promises.
+
+**Link(s) to work**
+No Link!
+
 ### Day 068: March 22, 2018
 **Today's Progress**:
 1. [You Don't Know JS] reading 5-3: Promises
