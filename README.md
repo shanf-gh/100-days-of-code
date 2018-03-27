@@ -2,6 +2,27 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+
+### Day 073: March 27, 2018
+**Today's Progress**:
+1. [You Don't Know JS] reading 5-3: Promises
+
+**Thoughts**
+Taking a lots of notes while reading promises.
+
+**Link(s) to work**
+No Link!
+
+### Day 072: March 26, 2018
+**Today's Progress**:
+1. [You Don't Know JS] reading 5-3: Promises
+
+**Thoughts**
+Taking a lots of notes while reading promises.
+
+**Link(s) to work**
+No Link!
+
 ### Day 071: March 25, 2018
 **Today's Progress**:
 1. [You Don't Know JS] reading 5-3: Promises
