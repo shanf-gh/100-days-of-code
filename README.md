@@ -2,6 +2,65 @@
 
 The log of my #100DaysOfCode challenge. Started on [January 15, Monday, 2017].
 
+### Day 081: April 04, 2018
+**Today's Progress**:
+1. [You Don't Know JS] reading 5-5: Program Performance
+
+**Thoughts**
+Taking a lots of notes while reading about generators.
+
+**Link(s) to work**
+No Link!
+
+### Day 080: April 03, 2018
+**Today's Progress**:
+1. [You Don't Know JS] reading 5-4: Generators
+
+**Thoughts**
+Taking a lots of notes while reading about generators.
+
+**Link(s) to work**
+No Link!
+
+### Day 079: April 02, 2018
+**Today's Progress**:
+1. [You Don't Know JS] reading 5-4: Generators
+
+**Thoughts**
+Taking a lots of notes while reading about generators.
+
+**Link(s) to work**
+No Link!
+
+### Day 078: April 01, 2018
+**Today's Progress**:
+1. [You Don't Know JS] reading 5-4: Generators
+
+**Thoughts**
+Taking a lots of notes while reading about generators.
+
+**Link(s) to work**
+No Link!
+
+### Day 077: March 31, 2018
+**Today's Progress**:
+1. [You Don't Know JS] reading 5-4: Generators
+
+**Thoughts**
+Taking a lots of notes while reading about generators.
+
+**Link(s) to work**
+No Link!
+
+### Day 076: March 30, 2018
+**Today's Progress**:
+1. [You Don't Know JS] reading 5-4: Generators
+
+**Thoughts**
+Taking a lots of notes while reading about generators.
+
+**Link(s) to work**
+No Link!
 
 ### Day 075: March 29, 2018
 **Today's Progress**:
