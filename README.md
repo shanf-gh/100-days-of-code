@@ -2,6 +2,17 @@
 
 The log of my #100DaysOfCode challenge. Started on [May 29, Tuesday, 2018].
 
+
+### Day 001: May 29, 2018
+**Today's Progress**:
+1. [WDBC] Started reviewing RESTful routes  
+
+**Thoughts**
+Refreshed knowledge about the 7 RESTful routes (Index, New, Create, Show, Edit, Update, Delete)
+
+**Link(s) to work**
+NO LINK!
+
 [Example]
 ### Day 000: January 28, 2018
 **Today's Progress**:
