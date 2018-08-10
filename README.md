@@ -3,15 +3,16 @@
 The log of my #100DaysOfCode challenge. Started on [May 29, Tuesday, 2018].
 
 
-### Day 001: May 29, 2018
+### Day 001: August 11, 2018
 **Today's Progress**:
-1. [WDBC] Started reviewing RESTful routes  
+1. [JavaScript Prep] Working on 2D Array - DS
 
 **Thoughts**
-Refreshed knowledge about the 7 RESTful routes (Index, New, Create, Show, Edit, Update, Delete)
+What is the *2D Array - DS* about?
+
 
 **Link(s) to work**
-NO LINK!
+[Chingu Challenge #9 - JavaScript Prep - 2D Array - DS](https://www.hackerrank.com/contests/chingu-challenge-9-javascript-prep/challenges/2d-array/problem)
 
 [Example]
 ### Day 000: January 28, 2018
