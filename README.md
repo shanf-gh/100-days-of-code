@@ -3,6 +3,16 @@
 The log of my #100DaysOfCode challenge. Started on [May 29, Tuesday, 2018].
 
 
+### Day 003 August 13, 2018
+**Today's Progress**:
+1. [freeCodeCamp] Worked 30 mins on the Flexbox challenges and CSS Grid.
+
+**Thoughts**:
+Hit the end of the Responsive Web Design section. I am thinking about making a tribute page to Jean Luc Picard with the LCARS (star trek OS) inspired by this website: http://www.lcarscom.net/. Show a loader and then show the profile of the captain as seen on [personel file in TNG](https://www.google.com/search?q=jean+luc+picard+personnel+file&hl=en&safe=off&tbm=isch&tbs=rimg:CVNy-_1zUSVjxIjjGMkipba9YzoxkXKRhFH1GHIgcyYSVYCVEWW2h-yNZHlfg2vUC7Eo7Qi6tRvyjxBihRkGyMYUOYSoSCcYySKltr1jOEQI_1jU4F6ngxKhIJjGRcpGEUfUYRSLNdl2KgrhEqEgkciBzJhJVgJRG1k5m0C3tf1SoSCURZbaH7I1keEdcHWNAhNdORKhIJV-Da9QLsSjsRNDmkQdDJx04qEglCLq1G_1KPEGBHqWguViTz0tioSCaFGQbIxhQ5hEdcHWNAhNdOR&tbo=u&sa=X&ved=2ahUKEwisirn01-jcAhUJZt4KHeMFDfwQ9C96BAgBEBs&biw=1707&bih=852&dpr=1.13)
+
+**Link(s) to work**:
+No link today!
+
 ### Day 002: August 12, 2018
 **Today's Progress**:
 1. [JavaScript Prep] Completed 3 - Print the Elements of a Linked List
