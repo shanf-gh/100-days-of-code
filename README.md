@@ -3,6 +3,21 @@
 The log of my #100DaysOfCode challenge. Started on [May 29, Tuesday, 2018].
 
 
+### Day 004 August 14, 2018
+**Today's Progress**:
+1. [JavaScript Prep] Worked on 4 - Insert a Node at the Tail of a Linked List
+2. [freeCodeCamp] Started working on the form project
+
+**Thoughts**:
+Worked on inserting a node into a linked list. I have trouble creating the full list, I am missing something here... Probably in the object I return from the function.
+
+Started working on the survey form project from the fCC curriculum. I only put the different elements and ids necessary to pass the tests at the moment. Still thinking about the theme of the form.
+
+**Link(s) to work**:
+[Chingu Challenge #9 - JavaScript Prep - Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/contests/chingu-challenge-9-javascript-prep/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem)
+[fCC - Survey Form](https://codepen.io/X140hu4/pen/ZjZGEg)
+
+
 ### Day 003 August 13, 2018
 **Today's Progress**:
 1. [freeCodeCamp] Worked 30 mins on the Flexbox challenges and CSS Grid.
