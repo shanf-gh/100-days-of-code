@@ -2,6 +2,24 @@
 
 The log of my #100DaysOfCode challenge. Started on [May 29, Tuesday, 2018].
 
+### Day 005 August 15, 2018
+**Today's Progress**:
+1. [JavaScript Prep] Worked on 4 - Insert a Node at the Tail of a Linked List
+2. [freeCodeCamp] Worked only a bit on fCC Survey form
+3. [php] Watched 30 mins of php tutorial
+
+**Thoughts**:
+Finally solved the challenge. In the condition when the head wasn't null, I changed the value of head until I got to the tail. Declaring another variable to store the initial head then looping on it to get to the tail and assigning the node to it worked. I was thinking about how to "push" the node into the object when it actually just inserts the data in the object.
+
+Didn't get much done on the fCC project as I was waiting for a call... but watched a php tutorial while waiting and also started the rework of my developer CV.
+
+**Link(s) to work**:
+[Chingu Challenge #9 - JavaScript Prep - Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/contests/chingu-challenge-9-javascript-prep/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem)
+
+**Link(s) to resources**:
+[Thanks FCC - I got my first job as a front-end developer! - gcamacho079](https://forum.freecodecamp.org/t/thanks-fcc-i-got-my-first-job-as-a-front-end-developer/151032)
+[An opinionated guide to writing developer resumes in 2017](https://medium.freecodecamp.org/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9)
+[How to Write a Cover Letter: 31 Tips You Need to Know](https://www.themuse.com/advice/how-to-write-a-cover-letter-31-tips-you-need-to-know)
 
 ### Day 004 August 14, 2018
 **Today's Progress**:
