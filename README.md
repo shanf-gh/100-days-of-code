@@ -2,6 +2,17 @@
 
 The log of my #100DaysOfCode challenge. Started on [May 29, Tuesday, 2018].
 
+### Day 006 August 16, 2018
+**Today's Progress**:
+1. [JavaScript Prep] Worked on 5 - Array and simple queries
+
+**Thoughts**:
+Came up with a first solution for the Chingu challenge. When submitting, out of 27 test cases: Pass: 16; Fail: 1; Timeout: 8; Abort: 2.
+Continued applying to a few jobs... didn't have time to work on the form
+
+**Link(s) to work**:
+[Chingu Challenge #9 - JavaScript Prep - Array and simple queries](https://www.hackerrank.com/contests/chingu-challenge-9-javascript-prep/challenges/array-and-simple-queries)
+
 ### Day 005 August 15, 2018
 **Today's Progress**:
 1. [JavaScript Prep] Worked on 4 - Insert a Node at the Tail of a Linked List
