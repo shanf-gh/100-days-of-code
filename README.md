@@ -1,6 +1,27 @@
 # #100DaysOfCode Log - Round 1 - Fabien
 
-The log of my #100DaysOfCode challenge. Started on [May 29, Tuesday, 2018].
+The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
+
+### Day 008 August 18, 2018
+**Today's Progress**:
+1. [JavaScript Prep] Worked on 5 - Array and simple queries
+1. [fCC] Worked on survey form - Reorganizing HTML and started styling
+
+**Thoughts**:
+Hit a wall on the JS prep challenge. It is better to do it with a better knowledge of data structures. From my searches on the internet, the solution uses a treap (binary tree and heaps mix?) to solve the timeout issue. Otherwise the algorithm I wrote seems to do the work for 17 out of 28 tests.
+
+**Link(s) to work**:
+
+
+### Day 007 August 17, 2018
+**Today's Progress**:
+1. [fCC] Worked on survey form - passing the tests
+
+**Thoughts**:
+I am passing the tests for the fCC survey form project now. I am now working on the styling of the page based on "The Good Place" color and design.
+
+**Link(s) to work**:
+
 
 ### Day 006 August 16, 2018
 **Today's Progress**:
