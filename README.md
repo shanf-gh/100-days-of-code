@@ -2,7 +2,17 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
-### Day 008 August 18, 2018
+### Day 010 August 20, 2018
+**Today's Progress**:
+1. [fCC] Worked on Product Landing Page
+
+**Thoughts**:
+Set up the files and the user stories
+
+**Link(s) to work**:
+No links today!
+
+### Day 009 August 19, 2018
 **Today's Progress**:
 1. [fCC] Worked on survey form - Reorganizing HTML and started styling
 
