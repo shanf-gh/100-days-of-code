@@ -2,6 +2,16 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
+### Day 012 August 22, 2018
+**Today's Progress**:
+1. [Job Search] Interview with Charles Wheeler (The Digital Store)
+2. [PHP] Followed PHP course from freecodecamp
+
+### Day 011 August 21, 2018
+**Today's Progress**:
+Skip day. I will allow 10 skip day maximum over the challenge. I did apply to a job at Vend, they asked a lot of questions so it took me some time to formulate them. I didn't receive a confirmation mail that they received my application thought which has me worry a bit.
+Started learning PHP, a lot of common things with javascript so far. I stopped at about 80% talking about class and objects.
+
 ### Day 010 August 20, 2018
 **Today's Progress**:
 1. [fCC] Worked on Product Landing Page
