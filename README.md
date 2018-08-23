@@ -2,15 +2,28 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
+### Day 013 August 23, 2018
+**Today's Progress**:
+1. [PHP] Finished PHP course
+2. [fCC] Product Landing Page
+
+**Thoughts**:
+Finished the PHP course, learned about class, constructor, inheritance and function override.
+I couldn't find a free stock video of donuts so I decide to go with Cookies, I could call the page The Cookie Dough company that offers three types of cookies: regular, white choc and dark black choc.
+
+
 ### Day 012 August 22, 2018
 **Today's Progress**:
 1. [Job Search] Interview with Charles Wheeler (The Digital Store)
 2. [PHP] Followed PHP course from freecodecamp
 
+**Thoughts**:
+Got an interview at a recruite company. All in all seemed good, I will see what job opportunities they come up with.
+I watched about 2h30 worth of PHP course from freeCodeCamp. There are a lot of common things with javascript so far. I stopped at about 80% talking about class and objects.
+
 ### Day 011 August 21, 2018
 **Today's Progress**:
 Skip day. I will allow 10 skip day maximum over the challenge. I did apply to a job at Vend, they asked a lot of questions so it took me some time to formulate them. I didn't receive a confirmation mail that they received my application thought which has me worry a bit.
-Started learning PHP, a lot of common things with javascript so far. I stopped at about 80% talking about class and objects.
 
 ### Day 010 August 20, 2018
 **Today's Progress**:
