@@ -2,6 +2,11 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
+### Day 014 August 24, 2018
+**Today's Progress**:
+1. [DB] Watched video about SQL vs NoSQL
+2. [fCC] Initial style of video and started work on navbar
+
 ### Day 013 August 23, 2018
 **Today's Progress**:
 1. [PHP] Finished PHP course
