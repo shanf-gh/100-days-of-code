@@ -2,6 +2,10 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
+### Day 014 August 25, 2018
+**Today's Progress**:
+1. [fCC] Changes to navbar
+
 ### Day 014 August 24, 2018
 **Today's Progress**:
 1. [DB] Watched video about SQL vs NoSQL
