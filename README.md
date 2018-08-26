@@ -2,7 +2,12 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
-### Day 014 August 25, 2018
+### Day 016 August 26, 2018
+**Today's Progress**:
+No progress today. Mostly worked on polishing new cover letters for dev and non-dev positions.
+I think I will start working 30 mins everyday on progressing on the fCC curriculum to get the machine going, otherwise I am just going to continue procrastinate on the projects... 
+
+### Day 015 August 25, 2018
 **Today's Progress**:
 1. [fCC] Changes to navbar
 
