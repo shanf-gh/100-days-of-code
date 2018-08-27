@@ -2,6 +2,11 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
+### Day 017 August 27, 2018
+**Today's Progress**:
+Reviewed Javascript on fCC and started a mongoDB course M121 MongoDB Aggregation framework course.
+Also had to quickly learn a bit of C# while answering questions for a job application. Applied for a few other jobs. It seems there are more graduate/junior job offers getting out there at the moment, probably because the end of the academic year is closing in.
+
 ### Day 016 August 26, 2018
 **Today's Progress**:
 No progress today. Mostly worked on polishing new cover letters for dev and non-dev positions.
