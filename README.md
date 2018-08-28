@@ -2,6 +2,10 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
+### Day 018 August 28, 2018
+**Today's Progress**:
+Learned a great deal about aggregate and pipeline for mongodb. Unfortunately I don't have enough time to finish the three chapters before the deadline.
+
 ### Day 017 August 27, 2018
 **Today's Progress**:
 Reviewed Javascript on fCC and started a mongoDB course M121 MongoDB Aggregation framework course.
