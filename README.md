@@ -2,17 +2,28 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
-### Day 018 August 28, 2018
+### Day 020 August 30, 2018
 **Today's Progress**:
+1. [fCC] Finished ES6 section, almost finished Regexp
+
+**Thoughts**:
+It was good to review the regexp, I got a bit rusty.
+
+### Day 019 August 29, 2018
+**Thoughts**:
+Did not take the time to code anything, I was too focused on producing a cover letter for a database administration role and have it reviewed by Alice. 
+
+### Day 018 August 28, 2018
+**Thoughts**:
 Learned a great deal about aggregate and pipeline for mongodb. Unfortunately I don't have enough time to finish the three chapters before the deadline.
 
 ### Day 017 August 27, 2018
-**Today's Progress**:
+**Thoughts**:
 Reviewed Javascript on fCC and started a mongoDB course M121 MongoDB Aggregation framework course.
 Also had to quickly learn a bit of C# while answering questions for a job application. Applied for a few other jobs. It seems there are more graduate/junior job offers getting out there at the moment, probably because the end of the academic year is closing in.
 
 ### Day 016 August 26, 2018
-**Today's Progress**:
+**Thoughts**:
 No progress today. Mostly worked on polishing new cover letters for dev and non-dev positions.
 I think I will start working 30 mins everyday on progressing on the fCC curriculum to get the machine going, otherwise I am just going to continue procrastinate on the projects... 
 
