@@ -2,6 +2,10 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
+### Day 021 August 31, 2018
+**Today's Progress**:
+1. [fCC] Finished Regexp and debugging
+
 ### Day 020 August 30, 2018
 **Today's Progress**:
 1. [fCC] Finished ES6 section, almost finished Regexp
