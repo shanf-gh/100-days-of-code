@@ -2,6 +2,14 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
+### Day 022 September 01, 2018
+**Today's Progress**:
+1. [fCC] Started Object Oriented Programming
+2. [Database Design] Started watching 30 mins of Database Design course
+
+**Link(s) to work**:
+1. [Database Design](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=2254s)
+
 ### Day 021 August 31, 2018
 **Today's Progress**:
 1. [fCC] Finished Regexp and debugging
