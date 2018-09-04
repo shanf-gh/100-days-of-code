@@ -2,6 +2,19 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
+### Day 025 September 04, 2018
+**Today's Progress**:
+1. Continued watching database design video
+
+### Day 024 September 03, 2018
+**Today's Progress**:
+1. [fCC] Finished Functional Programming and watched a video from FunFunFunction about Currying to clarify
+
+### Day 023 September 02, 2018
+**Today's Progress**:
+1. [fCC] Product Page: Finished navbar, choice of font
+2. [fCC] Finished OOP and started Functional Programming
+
 ### Day 022 September 01, 2018
 **Today's Progress**:
 1. [fCC] Started Object Oriented Programming
