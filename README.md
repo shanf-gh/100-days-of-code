@@ -2,10 +2,13 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
-### Day 027 September 06, 2018
+### Day 028 September 07, 2018
 **Today's Progress**:
 Worked a bit on the products section of the fCC Product page project.
 
+### Day 027 September 06, 2018
+**Today's Progress**:
+Worked a bit on the products section of the fCC Product page project.
 
 ### Day 026 September 05, 2018
 **Today's Progress**:
