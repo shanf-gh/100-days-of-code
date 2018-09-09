@@ -1,6 +1,14 @@
 # #100DaysOfCode Log - Round 1 - Fabien
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
+### Day 030 September 09, 2018
+**Today's Progress**:
+Added images to the cards and formated them to have space between them when the flex properties push the last card to the next line.
+I am putting a reminder to work on code everyday. I haven't been putting as much time as I would like. I believe this project will need no ore than 2 hours work to complete.
+
+### Day 029 September 08, 2018
+**Today's Progress**:
+Worked a bit on the products section of the fCC Product page project.
 
 ### Day 028 September 07, 2018
 **Today's Progress**:
