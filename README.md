@@ -1,6 +1,11 @@
 # #100DaysOfCode Log - Round 1 - Fabien
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
+
+### Day 033 September 12, 2018
+**Today's Progress**:
+fCC - Product Page: Centering contact, adding some internal href, simplifying typo style
+
 ### Day 032 September 11, 2018
 **Today's Progress**:
 Listening to Syntax and CodeNewbie.
