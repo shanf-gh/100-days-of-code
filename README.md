@@ -2,6 +2,16 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
+### Day 036 September 15, 2018
+**Today's Progress**:
+Worked on implementation of menu. CSS only. The input box being hidden and controlling the behavior of the hamburger menu is very smart trick.
+
+### Day 035 September 14, 2018
+**Today's Progress**:
+
+### Day 034 September 13, 2018
+**Today's Progress**:
+
 ### Day 033 September 12, 2018
 **Today's Progress**:
 fCC - Product Page: Centering contact, adding some internal href, simplifying typo style
