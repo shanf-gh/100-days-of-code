@@ -2,6 +2,22 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
+### Day 041 September 20, 2018
+**Today's Progress**:
+Giving a bit of help on gitter chatrooms, listening to the CodeNewbie podcast about indie hackers.
+
+### Day 040 September 19, 2018
+**Today's Progress**:
+Listened to 3 episodes of BaseCS podcast, finishing the 1st season and started the second season. The podcast is very helpful to review CS fundamentals. The three episodes talked about linked lists and specific implementations like queues and stacks.
+
+### Day 039 September 18, 2018
+**Today's Progress**:
+Focused on working on barista stuff.
+
+### Day 038 September 17, 2018
+**Today's Progress**:
+Got sick :( Didn't have time for coding.
+
 ### Day 037 September 16, 2018
 **Today's Progress**:
 Completed fCC project on a Product Landing page.
