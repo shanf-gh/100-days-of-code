@@ -2,6 +2,35 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
+### Day 048 September 27, 2018
+**Today's Progress**:
+Followed some php tutorial (random quote generator, image gallery).
+PHP test for Magic lamp (100mins).
+
+### Day 047 September 26, 2018
+**Today's Progress**:
+Followed some php tutorial (arrays, some functions).
+
+### Day 046 September 25, 2018
+**Today's Progress**:
+Followed some php tutorial (intro, variables, conditionals, loops)
+
+### Day 045 September 24, 2018
+**Today's Progress**:
+Installed WAMPserver.
+
+### Day 044 September 23, 2018
+**Today's Progress**:
+Did a bit of freecodecamp.
+
+### Day 043 September 22, 2018
+**Today's Progress**:
+Rest day.
+
+### Day 042 September 21, 2018
+**Today's Progress**:
+
+
 ### Day 041 September 20, 2018
 **Today's Progress**:
 Giving a bit of help on gitter chatrooms, listening to the CodeNewbie podcast about indie hackers.
