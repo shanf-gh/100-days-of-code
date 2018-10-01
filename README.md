@@ -2,10 +2,27 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
+### Day 052 October 01, 2018
+**Today's Progress**:
+[fCC] Completed Technical Documentation project.
+
+### Day 051 September 30, 2018
+**Today's Progress**:
+[fCC] Set up the navbar and titles of sections for the technical documentation project (fCC tests 13/16).
+
+### Day 050 September 29, 2018
+**Today's Progress**:
+[Javascript] Watched a few videos on Javascript Async (The Net Ninja)
+
+### Day 049 September 28, 2018
+**Today's Progress**:
+[fCC] Worked some more on technical documentation project
+
 ### Day 048 September 27, 2018
 **Today's Progress**:
 Followed some php tutorial (random quote generator, image gallery).
 PHP test for Magic lamp (100mins).
+[fCC] Setting up technical documentation project.
 
 ### Day 047 September 26, 2018
 **Today's Progress**:
