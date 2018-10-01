@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
 ### Day 052 October 01, 2018
 **Today's Progress**:
-[fCC] Completed Technical Documentation project.
+[fCC] Completed Technical Documentation project. Finished reviewing Bootstrap and jQuery sections.
 
 ### Day 051 September 30, 2018
 **Today's Progress**:
