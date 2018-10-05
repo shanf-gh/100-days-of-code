@@ -2,6 +2,22 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
+### Day 056 October 05, 2018
+**Today's Progress**:
+[Hacktoberfest2018] Started working on the pagination component using react and storybook.
+
+### Day 055 October 04, 2018
+**Today's Progress**:
+[Hacktoberfest2018] Setting up and playing a bit with ConexionFelina repository. 
+
+### Day 054 October 03, 2018
+**Today's Progress**:
+[Hacktoberfest2018] Familiarizing myself with the Open source projects contribution workflow with first-contributions.
+
+### Day 053 October 02, 2018
+**Today's Progress**:
+Busy looking for job.
+
 ### Day 052 October 01, 2018
 **Today's Progress**:
 [fCC] Completed Technical Documentation project. Finished reviewing Bootstrap and jQuery sections.
