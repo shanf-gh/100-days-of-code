@@ -2,9 +2,14 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
+### Day 057 October 06, 2018
+**Today's Progress**:
+[fCC] Finished React section
+
 ### Day 056 October 05, 2018
 **Today's Progress**:
 [Hacktoberfest2018] Started working on the pagination component using react and storybook.
+[fCC] Completed Sass section
 
 ### Day 055 October 04, 2018
 **Today's Progress**:
