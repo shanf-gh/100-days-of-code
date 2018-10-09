@@ -2,6 +2,24 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
+### Day 060 October 09, 2018
+**Today's Progress**:
+[fCC] Passed all tests for the markdown previewer project. Next: 
+ - [ ] styling of tables, code snippets/blocks, blockquotes
+ - [ ] Styling of the readme.md
+ - [ ] Hiding the API key
+
+Latest react version supports SCSS, just need to npm install node-sass. Previous version seemed to have the need to 'eject' some hidden folder from the create-react-app and modify them, on top of npm installing sass related packages, in order to use SASS with react.
+
+### Day 059 October 08, 2018
+**Today's Progress**:
+[Hacktoberfest2018] Created pull request for pagination issue
+[fCC] Started working on the markdown project using React and marked.js
+
+### Day 058 October 07, 2018
+**Today's Progress**:
+[fCC] Finished Redux section and React+Redux 
+
 ### Day 057 October 06, 2018
 **Today's Progress**:
 [fCC] Finished React section
