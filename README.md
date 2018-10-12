@@ -2,6 +2,21 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
+### Day 063 October 12, 2018
+**Today's Progress**:
+[Github] Rewrote fCC project readme
+[fCC] Rewrote the Markdown previewer's readme 
+[fCC] Started working on the drum
+
+### Day 062 October 11, 2018
+**Today's Progress**:
+[fCC] Completed d3.js
+[fCC] Completed Markdown previewer project
+
+### Day 061 October 10, 2018
+**Today's Progress**:
+[Meetup] Went to akjs meetup. Listened to a conversation about Typescript vs Javascript, talked with an accountant who just finished the EDA course and started job hunting.
+
 ### Day 060 October 09, 2018
 **Today's Progress**:
 [fCC] Passed all tests for the markdown previewer project. Next: 
