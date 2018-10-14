@@ -2,6 +2,10 @@
 
 The log of my #100DaysOfCode challenge. Started on [August 11, 2018].
 
+### Day 064 October 13, 2018
+**Today's Progress**:
+[fCC] Drum machine: Support of volume, click and keydown 
+
 ### Day 063 October 12, 2018
 **Today's Progress**:
 [Github] Rewrote fCC project readme
